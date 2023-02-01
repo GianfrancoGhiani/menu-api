@@ -251,13 +251,72 @@
             "title": "Chinese Veg Fried rice",
             "image": "https://spoonacular.com/recipeImages/638729-312x231.jpg",
             "imageType": "jpg"
+        },
+
+
+
+
+
+        {
+            "id": 716364,
+            "title": "Rice and Peas with Coconut Curry Mackerel",
+            "image": "https://spoonacular.com/recipeImages/716364-312x231.jpg",
+            "imageType": "jpg"
+        },
+        {
+            "id": 641111,
+            "title": "Curry Beef Over Rice Noodles",
+            "image": "https://spoonacular.com/recipeImages/641111-312x231.jpg",
+            "imageType": "jpg"
+        },
+        {
+            "id": 661287,
+            "title": "Spinach Chickpea - Palak Chana Rice",
+            "image": "https://spoonacular.com/recipeImages/661287-312x231.jpg",
+            "imageType": "jpg"
+        },
+        {
+            "id": 657085,
+            "title": "Prawn Biryani( Shrimps In Aromatic and Flavored Indian Rice)",
+            "image": "https://spoonacular.com/recipeImages/657085-312x231.jpg",
+            "imageType": "jpg"
+        },
+        {
+            "id": 657095,
+            "title": "Prawn Curry",
+            "image": "https://spoonacular.com/recipeImages/657095-312x231.jpg",
+            "imageType": "jpg"
+        },
+        {
+            "id": 654371,
+            "title": "Palak Gosht",
+            "image": "https://spoonacular.com/recipeImages/654371-312x231.jpg",
+            "imageType": "jpg"
+        },
+        {
+            "id": 652814,
+            "title": "Mutton Curry",
+            "image": "https://spoonacular.com/recipeImages/652814-312x231.jpg",
+            "imageType": "jpg"
+        },
+        {
+            "id": 660185,
+            "title": "Singapore Curry",
+            "image": "https://spoonacular.com/recipeImages/660185-312x231.jpg",
+            "imageType": "jpg"
+        },
+        {
+            "id": 632983,
+            "title": "Assam Fish Curry",
+            "image": "https://spoonacular.com/recipeImages/632983-312x231.jpg",
+            "imageType": "jpg"
+        },
+        {
+            "id": 650606,
+            "title": "Madras Beef Curry",
+            "image": "https://spoonacular.com/recipeImages/650606-312x231.jpg",
+            "imageType": "jpg"
         }
-
-
-
-
-
-
     ]
 
     
