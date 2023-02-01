@@ -4,118 +4,22 @@
     "imageType": "jpg",
     "image": "https://spoonacular.com/recipeImages/650606-312x231.jpg",
     "ingredients": [
-        {
-            "name": "blanched snow pea",
-            "image": "black-eyed-peas.jpg",
-            "amount": {
-                "metric": {
-                    "value": 4.0,
-                    "unit": "servings"
-                },
-                "us": {
-                    "value": 4.0,
-                    "unit": "servings"
-                }
-            }
-        },
-        {
-            "name": "cucumber",
-            "image": "cucumber.jpg",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": "Handful"
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": "Handful"
-                }
-            }
-        },
-        {
-            "name": "shredded egg crepe & egg crepe garnish",
-            "image": "egg.png",
-            "amount": {
-                "metric": {
-                    "value": 20.0,
-                    "unit": "servings"
-                },
-                "us": {
-                    "value": 20.0,
-                    "unit": "servings"
-                }
-            }
-        },
-        {
-            "name": "salmon sashimi",
-            "image": "salmon.png",
-            "amount": {
-                "metric": {
-                    "value": 10.0,
-                    "unit": ""
-                },
-                "us": {
-                    "value": 10.0,
-                    "unit": ""
-                }
-            }
-        },
-        {
-            "name": "cooked japanese premium short grain rice",
-            "image": "uncooked-white-rice.png",
-            "amount": {
-                "metric": {
-                    "value": 600.0,
-                    "unit": "g"
-                },
-                "us": {
-                    "value": 1.323,
-                    "unit": "lb"
-                }
-            }
-        },
-        {
-            "name": "cooked shrimp",
-            "image": "shrimp.png",
-            "amount": {
-                "metric": {
-                    "value": 12.0,
-                    "unit": ""
-                },
-                "us": {
-                    "value": 12.0,
-                    "unit": ""
-                }
-            }
-        },
-        {
-            "name": "chirashi sushi mix",
-            "image": "no.jpg",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": "pkt"
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": "pkt"
-                }
-            }
-        },
-        {
-            "name": "shredded sakura denbu",
-            "image": "no.jpg",
-            "amount": {
-                "metric": {
-                    "value": 20.0,
-                    "unit": "servings"
-                },
-                "us": {
-                    "value": 20.0,
-                    "unit": "servings"
-                }
-            }
-        }
+        
+        "blanched snow pea",
+        
+        "cucumber",
+        
+        "shredded egg crepe & egg crepe garnish",
+        
+        "salmon sashimi",
+        
+        "cooked japanese premium short grain rice",
+        
+        "cooked shrimp",
+        
+        "chirashi sushi mix",
+        
+        "shredded sakura denbu"
     ]
 },
 {
@@ -124,160 +28,28 @@
     "title": "Sushi Poppers",
     "image": "https://spoonacular.com/recipeImages/650606-312x231.jpg",
     "ingredients": [
-        {
-            "name": "canned solid albacore tuna in water",
-            "image": "canned-tuna.png",
-            "amount": {
-                "metric": {
-                    "value": 212.621,
-                    "unit": "g"
-                },
-                "us": {
-                    "value": 7.5,
-                    "unit": "ounce"
-                }
-            }
-        },
-        {
-            "name": "avocado",
-            "image": "avocado.jpg",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": "large"
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": "large"
-                }
-            }
-        },
-        {
-            "name": "cream cheese",
-            "image": "cream-cheese.jpg",
-            "amount": {
-                "metric": {
-                    "value": 113.398,
-                    "unit": "g"
-                },
-                "us": {
-                    "value": 4.0,
-                    "unit": "ounces"
-                }
-            }
-        },
-        {
-            "name": "fresh cucumber",
-            "image": "cucumber.jpg",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": "small"
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": "small"
-                }
-            }
-        },
-        {
-            "name": "mango",
-            "image": "mango.jpg",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": "large"
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": "large"
-                }
-            }
-        },
-        {
-            "name": "seasoned rice vinegar",
-            "image": "rice-vinegar.png",
-            "amount": {
-                "metric": {
-                    "value": 3.0,
-                    "unit": "Tbsps"
-                },
-                "us": {
-                    "value": 3.0,
-                    "unit": "Tbsps"
-                }
-            }
-        },
-        {
-            "name": "sesame seeds",
-            "image": "black-sesame-seeds-or-chia-seeds.png",
-            "amount": {
-                "metric": {
-                    "value": 2.0,
-                    "unit": "Tbsps"
-                },
-                "us": {
-                    "value": 2.0,
-                    "unit": "Tbsps"
-                }
-            }
-        },
-        {
-            "name": "cooked freshly short-grain rice",
-            "image": "uncooked-white-rice.png",
-            "amount": {
-                "metric": {
-                    "value": 200.0,
-                    "unit": "g"
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": "cup"
-                }
-            }
-        },
-        {
-            "name": "fresh shrimp",
-            "image": "shrimp.png",
-            "amount": {
-                "metric": {
-                    "value": 113.398,
-                    "unit": "g"
-                },
-                "us": {
-                    "value": 0.25,
-                    "unit": "lb"
-                }
-            }
-        },
-        {
-            "name": "smoked salmon",
-            "image": "smoked-salmon.png",
-            "amount": {
-                "metric": {
-                    "value": 68.0,
-                    "unit": "g"
-                },
-                "us": {
-                    "value": 0.5,
-                    "unit": "cup"
-                }
-            }
-        },
-        {
-            "name": "wasabi paste",
-            "image": "wasabi-paste.png",
-            "amount": {
-                "metric": {
-                    "value": 30.0,
-                    "unit": "servings"
-                },
-                "us": {
-                    "value": 30.0,
-                    "unit": "servings"
-                }
-            }
-        }
+        
+        "canned solid albacore tuna in water",
+        
+        "avocado",
+        
+        "cream cheese",
+        
+        "fresh cucumber",
+        
+        "mango",
+        
+        "seasoned rice vinegar",
+        
+        "sesame seeds",
+        
+        "cooked freshly short-grain rice",
+        
+        "fresh shrimp",
+        
+        "smoked salmon",
+        
+        "wasabi paste"
     ]
 },
 {
@@ -286,160 +58,28 @@
     "title": "Sushi Pizza",
     "image": "https://spoonacular.com/recipeImages/650606-312x231.jpg",
     "ingredients": [
-        {
-            "name": "avocado",
-            "image": "avocado.jpg",
-            "amount": {
-                "metric": {
-                    "value": 0.5,
-                    "unit": ""
-                },
-                "us": {
-                    "value": 0.5,
-                    "unit": ""
-                }
-            }
-        },
-        {
-            "name": "smoked flakedimitation crabmeat",
-            "image": "crabmeat.jpg",
-            "amount": {
-                "metric": {
-                    "value": 126.0,
-                    "unit": "g"
-                },
-                "us": {
-                    "value": 0.75,
-                    "unit": "cup"
-                }
-            }
-        },
-        {
-            "name": "english cucumber",
-            "image": "english-cucumber.png",
-            "amount": {
-                "metric": {
-                    "value": 52.0,
-                    "unit": "g"
-                },
-                "us": {
-                    "value": 0.5,
-                    "unit": "cup"
-                }
-            }
-        },
-        {
-            "name": "light mayonnaise",
-            "image": "mayonnaise.png",
-            "amount": {
-                "metric": {
-                    "value": 2.0,
-                    "unit": "Tbsps"
-                },
-                "us": {
-                    "value": 2.0,
-                    "unit": "Tbsps"
-                }
-            }
-        },
-        {
-            "name": "milk",
-            "image": "milk.png",
-            "amount": {
-                "metric": {
-                    "value": 2.0,
-                    "unit": "Tbsps"
-                },
-                "us": {
-                    "value": 2.0,
-                    "unit": "Tbsps"
-                }
-            }
-        },
-        {
-            "name": "roasted nori",
-            "image": "nori.jpg",
-            "amount": {
-                "metric": {
-                    "value": 0.5,
-                    "unit": "sheet"
-                },
-                "us": {
-                    "value": 0.5,
-                    "unit": "sheet"
-                }
-            }
-        },
-        {
-            "name": "pickled ginger",
-            "image": "ginger-pickled.jpg",
-            "amount": {
-                "metric": {
-                    "value": 2.0,
-                    "unit": "Tbsps"
-                },
-                "us": {
-                    "value": 2.0,
-                    "unit": "Tbsps"
-                }
-            }
-        },
-        {
-            "name": "seasoned rice vinegar",
-            "image": "rice-vinegar.png",
-            "amount": {
-                "metric": {
-                    "value": 63.75,
-                    "unit": "ml"
-                },
-                "us": {
-                    "value": 0.25,
-                    "unit": "cup"
-                }
-            }
-        },
-        {
-            "name": "sesame seeds",
-            "image": "sesame-seeds.png",
-            "amount": {
-                "metric": {
-                    "value": 2.0,
-                    "unit": "Tbsps"
-                },
-                "us": {
-                    "value": 2.0,
-                    "unit": "Tbsps"
-                }
-            }
-        },
-        {
-            "name": "sushi rice",
-            "image": "uncooked-white-rice.png",
-            "amount": {
-                "metric": {
-                    "value": 185.0,
-                    "unit": "g"
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": "cup"
-                }
-            }
-        },
-        {
-            "name": "wasabi powder",
-            "image": "wasabi-powder.png",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": "Tbsp"
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": "Tbsp"
-                }
-            }
-        }
+        
+        "avocado",
+        
+        "smoked flakedimitation crabmeat",
+        
+        "english cucumber",
+        
+        "light mayonnaise",
+        
+        "milk",
+        
+        "roasted nori",
+        
+        "pickled ginger",
+        
+        "seasoned rice vinegar",
+        
+        "sesame seeds",
+        
+        "sushi rice",
+        
+        "wasabi powder"
     ]
 },
 {
@@ -448,174 +88,30 @@
     "title": "Sushi burrito",
     "image": "https://spoonacular.com/recipeImages/650606-312x231.jpg",
     "ingredients": [
-        {
-            "name": "sushi rice",
-            "image": "uncooked-white-rice.png",
-            "amount": {
-                "metric": {
-                    "value": 150.0,
-                    "unit": "g"
-                },
-                "us": {
-                    "value": 5.291,
-                    "unit": "oz"
-                }
-            }
-        },
-        {
-            "name": "rice wine vinegar",
-            "image": "rice-vinegar.png",
-            "amount": {
-                "metric": {
-                    "value": 2.0,
-                    "unit": "tsps"
-                },
-                "us": {
-                    "value": 2.0,
-                    "unit": "tsps"
-                }
-            }
-        },
-        {
-            "name": "cucumber",
-            "image": "cucumber.jpg",
-            "amount": {
-                "metric": {
-                    "value": 0.5,
-                    "unit": ""
-                },
-                "us": {
-                    "value": 0.5,
-                    "unit": ""
-                }
-            }
-        },
-        {
-            "name": "carrot",
-            "image": "sliced-carrot.png",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": ""
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": ""
-                }
-            }
-        },
-        {
-            "name": "soy sauce",
-            "image": "soy-sauce.jpg",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": "Tbsp"
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": "Tbsp"
-                }
-            }
-        },
-        {
-            "name": "nori",
-            "image": "nori.jpg",
-            "amount": {
-                "metric": {
-                    "value": 4.0,
-                    "unit": "sheets"
-                },
-                "us": {
-                    "value": 4.0,
-                    "unit": "sheets"
-                }
-            }
-        },
-        {
-            "name": "wasabi paste",
-            "image": "wasabi-paste.png",
-            "amount": {
-                "metric": {
-                    "value": 2.0,
-                    "unit": "tsps"
-                },
-                "us": {
-                    "value": 2.0,
-                    "unit": "tsps"
-                }
-            }
-        },
-        {
-            "name": "pickled ginger",
-            "image": "ginger-pickled.jpg",
-            "amount": {
-                "metric": {
-                    "value": 50.0,
-                    "unit": "g"
-                },
-                "us": {
-                    "value": 1.764,
-                    "unit": "oz"
-                }
-            }
-        },
-        {
-            "name": "lime (juice)",
-            "image": "lime-juice.png",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": ""
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": ""
-                }
-            }
-        },
-        {
-            "name": "avocados",
-            "image": "avocado.jpg",
-            "amount": {
-                "metric": {
-                    "value": 2.0,
-                    "unit": ""
-                },
-                "us": {
-                    "value": 2.0,
-                    "unit": ""
-                }
-            }
-        },
-        {
-            "name": "sushi grade tuna steak",
-            "image": "tuna-steak.png",
-            "amount": {
-                "metric": {
-                    "value": 200.0,
-                    "unit": "g"
-                },
-                "us": {
-                    "value": 7.055,
-                    "unit": "oz"
-                }
-            }
-        },
-        {
-            "name": "pack coriander",
-            "image": "cilantro.png",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": "small"
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": "small"
-                }
-            }
-        }
+        
+        "sushi rice",
+        
+        "rice wine vinegar",
+        
+        "cucumber",
+        
+        "carrot",
+        
+        "soy sauce",
+        
+        "nori",
+        
+        "wasabi paste",
+        
+        "pickled ginger",
+        
+        "lime (juice)",
+        
+        "avocados",
+        
+        "sushi grade tuna steak",
+        
+        "pack coriander"
     ]
 },
 {
@@ -624,76 +120,16 @@
     "title": "Salmon Sushi",
     "image": "https://spoonacular.com/recipeImages/650606-312x231.jpg",
     "ingredients": [
-        {
-            "name": "carrot",
-            "image": "sliced-carrot.png",
-            "amount": {
-                "metric": {
-                    "value": 0.5,
-                    "unit": "small"
-                },
-                "us": {
-                    "value": 0.5,
-                    "unit": "small"
-                }
-            }
-        },
-        {
-            "name": "cooked rice",
-            "image": "rice-white-long-grain-or-basmatii-cooked.jpg",
-            "amount": {
-                "metric": {
-                    "value": 158.0,
-                    "unit": "g"
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": "cup"
-                }
-            }
-        },
-        {
-            "name": "cucumber",
-            "image": "cucumber.jpg",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": "small"
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": "small"
-                }
-            }
-        },
-        {
-            "name": "nori",
-            "image": "nori.jpg",
-            "amount": {
-                "metric": {
-                    "value": 2.0,
-                    "unit": "servings"
-                },
-                "us": {
-                    "value": 2.0,
-                    "unit": "servings"
-                }
-            }
-        },
-        {
-            "name": "smoked salmon",
-            "image": "smoked-salmon.png",
-            "amount": {
-                "metric": {
-                    "value": 68.0,
-                    "unit": "g"
-                },
-                "us": {
-                    "value": 0.5,
-                    "unit": "cup"
-                }
-            }
-        }
+        
+        "carrot",
+        
+        "cooked rice",
+        
+        "cucumber",
+        
+        "nori",
+        
+        "smoked salmon"
     ]
 },
 {
@@ -702,216 +138,36 @@
     "title": "Sushi Layers",
     "image": "https://spoonacular.com/recipeImages/650606-312x231.jpg",
     "ingredients": [
-        {
-            "name": "caper",
-            "image": "caper-berries.jpg",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": "Tbsp"
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": "Tbsp"
-                }
-            }
-        },
-        {
-            "name": "carrot",
-            "image": "sliced-carrot.png",
-            "amount": {
-                "metric": {
-                    "value": 64.0,
-                    "unit": "g"
-                },
-                "us": {
-                    "value": 0.5,
-                    "unit": "cup"
-                }
-            }
-        },
-        {
-            "name": "cucumbers",
-            "image": "cucumber.jpg",
-            "amount": {
-                "metric": {
-                    "value": 199.5,
-                    "unit": "g"
-                },
-                "us": {
-                    "value": 1.5,
-                    "unit": "cups"
-                }
-            }
-        },
-        {
-            "name": "green onion",
-            "image": "spring-onions.jpg",
-            "amount": {
-                "metric": {
-                    "value": 50.0,
-                    "unit": "g"
-                },
-                "us": {
-                    "value": 0.5,
-                    "unit": "cup"
-                }
-            }
-        },
-        {
-            "name": "lemons",
-            "image": "lemon.png",
-            "amount": {
-                "metric": {
-                    "value": 2.0,
-                    "unit": "medium"
-                },
-                "us": {
-                    "value": 2.0,
-                    "unit": "medium"
-                }
-            }
-        },
-        {
-            "name": "nori",
-            "image": "nori.jpg",
-            "amount": {
-                "metric": {
-                    "value": 4.0,
-                    "unit": ""
-                },
-                "us": {
-                    "value": 4.0,
-                    "unit": ""
-                }
-            }
-        },
-        {
-            "name": "red diced bell pepper",
-            "image": "bell-pepper-orange.png",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": "large"
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": "large"
-                }
-            }
-        },
-        {
-            "name": "rice vinegar",
-            "image": "rice-vinegar.png",
-            "amount": {
-                "metric": {
-                    "value": 85.0,
-                    "unit": "ml"
-                },
-                "us": {
-                    "value": 0.33333334,
-                    "unit": "cup"
-                }
-            }
-        },
-        {
-            "name": "dry rice wine",
-            "image": "dry-sherry.png",
-            "amount": {
-                "metric": {
-                    "value": 60.0,
-                    "unit": "ml"
-                },
-                "us": {
-                    "value": 0.25,
-                    "unit": "cup"
-                }
-            }
-        },
-        {
-            "name": "salt",
-            "image": "salt.jpg",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": "tsp"
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": "tsp"
-                }
-            }
-        },
-        {
-            "name": "short-grain rice",
-            "image": "uncooked-white-rice.png",
-            "amount": {
-                "metric": {
-                    "value": 450.0,
-                    "unit": "g"
-                },
-                "us": {
-                    "value": 2.25,
-                    "unit": "cups"
-                }
-            }
-        },
-        {
-            "name": "cooked shrimp",
-            "image": "shrimp.png",
-            "amount": {
-                "metric": {
-                    "value": 226.796,
-                    "unit": "g"
-                },
-                "us": {
-                    "value": 8.0,
-                    "unit": "ounces"
-                }
-            }
-        },
-        {
-            "name": "smoked salmon",
-            "image": "smoked-salmon.png",
-            "amount": {
-                "metric": {
-                    "value": 85.049,
-                    "unit": "g"
-                },
-                "us": {
-                    "value": 3.0,
-                    "unit": "ounce"
-                }
-            }
-        },
-        {
-            "name": "sugar",
-            "image": "sugar-in-bowl.png",
-            "amount": {
-                "metric": {
-                    "value": 50.0,
-                    "unit": "g"
-                },
-                "us": {
-                    "value": 0.25,
-                    "unit": "cup"
-                }
-            }
-        },
-        {
-            "name": "water",
-            "image": "water.png",
-            "amount": {
-                "metric": {
-                    "value": 1.065,
-                    "unit": "l"
-                },
-                "us": {
-                    "value": 4.5,
-                    "unit": "cups"
-                }
-            }
-        }
+        
+        "caper",
+        
+        "carrot",
+        
+        "cucumbers",
+        
+        "green onion",
+        
+        "lemons",
+        
+        "nori",
+        
+        "red diced bell pepper",
+        
+        "rice vinegar",
+        
+        "dry rice wine",
+        
+        "salt",
+        
+        "short-grain rice",
+        
+        "cooked shrimp",
+        
+        "smoked salmon",
+        
+        "sugar",
+        
+        "water"
     ]
 },
 {
@@ -920,202 +176,34 @@
     "title": "Vegetable Sushi",
     "image": "https://spoonacular.com/recipeImages/650606-312x231.jpg",
     "ingredients": [
-        {
-            "name": "trimmed asparagus spears",
-            "image": "asparagus.png",
-            "amount": {
-                "metric": {
-                    "value": 20.0,
-                    "unit": ""
-                },
-                "us": {
-                    "value": 20.0,
-                    "unit": ""
-                }
-            }
-        },
-        {
-            "name": "avocado",
-            "image": "avocado.jpg",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": ""
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": ""
-                }
-            }
-        },
-        {
-            "name": "cucumber",
-            "image": "cucumber.jpg",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": ""
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": ""
-                }
-            }
-        },
-        {
-            "name": "dried nori",
-            "image": "nori.jpg",
-            "amount": {
-                "metric": {
-                    "value": 10.0,
-                    "unit": "sheets"
-                },
-                "us": {
-                    "value": 10.0,
-                    "unit": "sheets"
-                }
-            }
-        },
-        {
-            "name": "pickled ginger",
-            "image": "ginger-pickled.jpg",
-            "amount": {
-                "metric": {
-                    "value": 20.0,
-                    "unit": "servings"
-                },
-                "us": {
-                    "value": 20.0,
-                    "unit": "servings"
-                }
-            }
-        },
-        {
-            "name": "plum tomato",
-            "image": "plum-tomatoes.png",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": ""
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": ""
-                }
-            }
-        },
-        {
-            "name": "red onion",
-            "image": "red-onion.png",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": "small"
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": "small"
-                }
-            }
-        },
-        {
-            "name": "rice vinegar",
-            "image": "rice-vinegar.png",
-            "amount": {
-                "metric": {
-                    "value": 85.0,
-                    "unit": "ml"
-                },
-                "us": {
-                    "value": 0.33333334,
-                    "unit": "cup"
-                }
-            }
-        },
-        {
-            "name": "romaine lettuce heart",
-            "image": "romaine.jpg",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": ""
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": ""
-                }
-            }
-        },
-        {
-            "name": "salt",
-            "image": "salt.jpg",
-            "amount": {
-                "metric": {
-                    "value": 20.0,
-                    "unit": "servings"
-                },
-                "us": {
-                    "value": 20.0,
-                    "unit": "servings"
-                }
-            }
-        },
-        {
-            "name": "sesame seeds",
-            "image": "sesame-seeds.png",
-            "amount": {
-                "metric": {
-                    "value": 20.0,
-                    "unit": "servings"
-                },
-                "us": {
-                    "value": 20.0,
-                    "unit": "servings"
-                }
-            }
-        },
-        {
-            "name": "short-grain japanese rice",
-            "image": "uncooked-white-rice.png",
-            "amount": {
-                "metric": {
-                    "value": 600.0,
-                    "unit": "g"
-                },
-                "us": {
-                    "value": 3.0,
-                    "unit": "cups"
-                }
-            }
-        },
-        {
-            "name": "sugar",
-            "image": "sugar-in-bowl.png",
-            "amount": {
-                "metric": {
-                    "value": 3.0,
-                    "unit": "Tbsps"
-                },
-                "us": {
-                    "value": 3.0,
-                    "unit": "Tbsps"
-                }
-            }
-        },
-        {
-            "name": "wasabi paste",
-            "image": "wasabi-paste.png",
-            "amount": {
-                "metric": {
-                    "value": 20.0,
-                    "unit": "servings"
-                },
-                "us": {
-                    "value": 20.0,
-                    "unit": "servings"
-                }
-            }
-        }
+        
+        "trimmed asparagus spears",
+        
+        "avocado",
+        
+        "cucumber",
+        
+        "dried nori",
+        
+        "pickled ginger",
+        
+        "plum tomato",
+        
+        "red onion",
+        
+        "rice vinegar",
+        
+        "romaine lettuce heart",
+        
+        "salt",
+        
+        "sesame seeds",
+        
+        "short-grain japanese rice",
+        
+        "sugar",
+        
+        "wasabi paste"
     ]
 },
 {
@@ -1124,160 +212,28 @@
     "title": "Sushi Salad",
     "image": "https://spoonacular.com/recipeImages/650606-312x231.jpg",
     "ingredients": [
-        {
-            "name": "cayenne pepper",
-            "image": "chili-powder.jpg",
-            "amount": {
-                "metric": {
-                    "value": 0.125,
-                    "unit": "tsps"
-                },
-                "us": {
-                    "value": 0.125,
-                    "unit": "tsps"
-                }
-            }
-        },
-        {
-            "name": "english cucumber",
-            "image": "english-cucumber.png",
-            "amount": {
-                "metric": {
-                    "value": 104.0,
-                    "unit": "g"
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": "cup"
-                }
-            }
-        },
-        {
-            "name": "fresh tuna",
-            "image": "tuna-steak.png",
-            "amount": {
-                "metric": {
-                    "value": 226.796,
-                    "unit": "g"
-                },
-                "us": {
-                    "value": 0.5,
-                    "unit": "lb"
-                }
-            }
-        },
-        {
-            "name": "green onion",
-            "image": "spring-onions.jpg",
-            "amount": {
-                "metric": {
-                    "value": 25.0,
-                    "unit": "g"
-                },
-                "us": {
-                    "value": 0.25,
-                    "unit": "cup"
-                }
-            }
-        },
-        {
-            "name": "old bay seasoning",
-            "image": "seasoning.png",
-            "amount": {
-                "metric": {
-                    "value": 0.25,
-                    "unit": "tsps"
-                },
-                "us": {
-                    "value": 0.25,
-                    "unit": "tsps"
-                }
-            }
-        },
-        {
-            "name": "red pepper flakes",
-            "image": "red-pepper-flakes.jpg",
-            "amount": {
-                "metric": {
-                    "value": 0.125,
-                    "unit": "tsps"
-                },
-                "us": {
-                    "value": 0.125,
-                    "unit": "tsps"
-                }
-            }
-        },
-        {
-            "name": "sesame seed",
-            "image": "sesame-seeds.png",
-            "amount": {
-                "metric": {
-                    "value": 37.5,
-                    "unit": "g"
-                },
-                "us": {
-                    "value": 0.25,
-                    "unit": "cup"
-                }
-            }
-        },
-        {
-            "name": "sesame seed oil",
-            "image": "sesame-oil.png",
-            "amount": {
-                "metric": {
-                    "value": 2.0,
-                    "unit": "Tbsps"
-                },
-                "us": {
-                    "value": 2.0,
-                    "unit": "Tbsps"
-                }
-            }
-        },
-        {
-            "name": "soy sauce",
-            "image": "soy-sauce.jpg",
-            "amount": {
-                "metric": {
-                    "value": 2.0,
-                    "unit": "Tbsps"
-                },
-                "us": {
-                    "value": 2.0,
-                    "unit": "Tbsps"
-                }
-            }
-        },
-        {
-            "name": "sugar",
-            "image": "sugar-in-bowl.png",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": "Tbsp"
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": "Tbsp"
-                }
-            }
-        },
-        {
-            "name": "unseasoned rice vinegar",
-            "image": "rice-vinegar.png",
-            "amount": {
-                "metric": {
-                    "value": 4.0,
-                    "unit": "Tbsps"
-                },
-                "us": {
-                    "value": 4.0,
-                    "unit": "Tbsps"
-                }
-            }
-        }
+        
+        "cayenne pepper",
+        
+        "english cucumber",
+        
+        "fresh tuna",
+        
+        "green onion",
+        
+        "old bay seasoning",
+        
+        "red pepper flakes",
+        
+        "sesame seed",
+        
+        "sesame seed oil",
+        
+        "soy sauce",
+        
+        "sugar",
+        
+        "unseasoned rice vinegar"
     ]
 },
 
@@ -1296,132 +252,24 @@
     "image": "https://spoonacular.com/recipeImages/652433-312x231.jpg",
     "imageType": "jpg",
     "ingredients": [
-        {
-            "name": "lean chicken breast fillets",
-            "image": "chicken-breasts.png",
-            "amount": {
-                "metric": {
-                    "value": 453.592,
-                    "unit": "g"
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": "pound"
-                }
-            }
-        },
-        {
-            "name": "moroccan lemon marinade",
-            "image": "lemon.png",
-            "amount": {
-                "metric": {
-                    "value": 8.0,
-                    "unit": "servings"
-                },
-                "us": {
-                    "value": 8.0,
-                    "unit": "servings"
-                }
-            }
-        },
-        {
-            "name": "parsley",
-            "image": "parsley.jpg",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": "tsp"
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": "tsp"
-                }
-            }
-        },
-        {
-            "name": "fresh rosemary leaves",
-            "image": "rosemary.jpg",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": "tsp"
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": "tsp"
-                }
-            }
-        },
-        {
-            "name": "fresh thyme leaves",
-            "image": "thyme.jpg",
-            "amount": {
-                "metric": {
-                    "value": 2.0,
-                    "unit": "tsps"
-                },
-                "us": {
-                    "value": 2.0,
-                    "unit": "tsps"
-                }
-            }
-        },
-        {
-            "name": "garlic",
-            "image": "garlic.png",
-            "amount": {
-                "metric": {
-                    "value": 2.0,
-                    "unit": "cloves"
-                },
-                "us": {
-                    "value": 2.0,
-                    "unit": "cloves"
-                }
-            }
-        },
-        {
-            "name": "black peppercorns",
-            "image": "black-pepper.png",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": "tsp"
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": "tsp"
-                }
-            }
-        },
-        {
-            "name": "lemon (juice)",
-            "image": "lemon-juice.jpg",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": ""
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": ""
-                }
-            }
-        },
-        {
-            "name": "olive oil",
-            "image": "olive-oil.jpg",
-            "amount": {
-                "metric": {
-                    "value": 2.0,
-                    "unit": "tsps"
-                },
-                "us": {
-                    "value": 2.0,
-                    "unit": "tsps"
-                }
-            }
-        }
+        
+        "lean chicken breast fillets",
+        
+        "moroccan lemon marinade",
+        
+        "parsley",
+        
+        "fresh rosemary leaves",
+        
+        "fresh thyme leaves",
+        
+        "garlic",
+        
+        "black peppercorns",
+        
+        "lemon (juice)",
+        
+        "olive oil"
     ]
 },
 {
@@ -1430,118 +278,22 @@
     "image": "https://spoonacular.com/recipeImages/659742-312x231.jpg",
     "imageType": "jpg",
     "ingredients": [
-        {
-            "name": "pork meat",
-            "image": "whole-chicken.jpg",
-            "amount": {
-                "metric": {
-                    "value": 300.0,
-                    "unit": "grams"
-                },
-                "us": {
-                    "value": 10.582,
-                    "unit": "oz"
-                }
-            }
-        },
-        {
-            "name": "red bell pepper",
-            "image": "red-pepper.jpg",
-            "amount": {
-                "metric": {
-                    "value": 0.5,
-                    "unit": "small"
-                },
-                "us": {
-                    "value": 0.5,
-                    "unit": "small"
-                }
-            }
-        },
-        {
-            "name": "green bell pepper",
-            "image": "green-pepper.jpg",
-            "amount": {
-                "metric": {
-                    "value": 0.5,
-                    "unit": "small"
-                },
-                "us": {
-                    "value": 0.5,
-                    "unit": "small"
-                }
-            }
-        },
-        {
-            "name": "onion",
-            "image": "brown-onion.png",
-            "amount": {
-                "metric": {
-                    "value": 0.5,
-                    "unit": "small"
-                },
-                "us": {
-                    "value": 0.5,
-                    "unit": "small"
-                }
-            }
-        },
-        {
-            "name": "cured bacon",
-            "image": "raw-bacon.png",
-            "amount": {
-                "metric": {
-                    "value": 100.0,
-                    "unit": "grams"
-                },
-                "us": {
-                    "value": 3.527,
-                    "unit": "oz"
-                }
-            }
-        },
-        {
-            "name": "black ground pepper",
-            "image": "pepper.jpg",
-            "amount": {
-                "metric": {
-                    "value": 2.0,
-                    "unit": "pinch"
-                },
-                "us": {
-                    "value": 2.0,
-                    "unit": "pinch"
-                }
-            }
-        },
-        {
-            "name": "salt",
-            "image": "salt.jpg",
-            "amount": {
-                "metric": {
-                    "value": 3.0,
-                    "unit": "pinch"
-                },
-                "us": {
-                    "value": 3.0,
-                    "unit": "pinch"
-                }
-            }
-        },
-        {
-            "name": "plain salad oil",
-            "image": "olive-oil.jpg",
-            "amount": {
-                "metric": {
-                    "value": 2.0,
-                    "unit": "Tbsps"
-                },
-                "us": {
-                    "value": 2.0,
-                    "unit": "Tbsps"
-                }
-            }
-        }
+        
+        "pork meat",
+        
+        "red bell pepper",
+        
+        "green bell pepper",
+        
+        "onion",
+        
+        "cured bacon",
+        
+        "black ground pepper",
+        
+        "salt",
+        
+        "plain salad oil"
     ]
 },
 {
@@ -1550,188 +302,32 @@
     "image": "https://spoonacular.com/recipeImages/645742-312x231.jpg",
     "imageType": "jpg",
     "ingredients": [
-        {
-            "name": "apple cider vinegar",
-            "image": "apple-cider-vinegar.jpg",
-            "amount": {
-                "metric": {
-                    "value": 59.75,
-                    "unit": "ml"
-                },
-                "us": {
-                    "value": 0.25,
-                    "unit": "cup"
-                }
-            }
-        },
-        {
-            "name": "cherry tomatoes",
-            "image": "cherry-tomatoes.png",
-            "amount": {
-                "metric": {
-                    "value": 8.0,
-                    "unit": ""
-                },
-                "us": {
-                    "value": 8.0,
-                    "unit": ""
-                }
-            }
-        },
-        {
-            "name": "fresh ginger",
-            "image": "ginger.png",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": "tsp"
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": "tsp"
-                }
-            }
-        },
-        {
-            "name": "green pepper",
-            "image": "green-pepper.jpg",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": ""
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": ""
-                }
-            }
-        },
-        {
-            "name": "lemon juice",
-            "image": "lemon-juice.jpg",
-            "amount": {
-                "metric": {
-                    "value": 2.0,
-                    "unit": "Tbsps"
-                },
-                "us": {
-                    "value": 2.0,
-                    "unit": "Tbsps"
-                }
-            }
-        },
-        {
-            "name": "lower-sodium soy sauce",
-            "image": "soy-sauce.jpg",
-            "amount": {
-                "metric": {
-                    "value": 2.0,
-                    "unit": "Tbsps"
-                },
-                "us": {
-                    "value": 2.0,
-                    "unit": "Tbsps"
-                }
-            }
-        },
-        {
-            "name": "mushrooms",
-            "image": "mushrooms-white.jpg",
-            "amount": {
-                "metric": {
-                    "value": 8.0,
-                    "unit": "medium"
-                },
-                "us": {
-                    "value": 8.0,
-                    "unit": "medium"
-                }
-            }
-        },
-        {
-            "name": "onion",
-            "image": "brown-onion.png",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": ""
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": ""
-                }
-            }
-        },
-        {
-            "name": "orange juice concentrate",
-            "image": "orange-juice.jpg",
-            "amount": {
-                "metric": {
-                    "value": 71.0,
-                    "unit": "ml"
-                },
-                "us": {
-                    "value": 0.25,
-                    "unit": "cup"
-                }
-            }
-        },
-        {
-            "name": "frozen tofu",
-            "image": "tofu.png",
-            "amount": {
-                "metric": {
-                    "value": 453.592,
-                    "unit": "g"
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": "pound"
-                }
-            }
-        },
-        {
-            "name": "excess water squeezed out",
-            "image": "water.png",
-            "amount": {
-                "metric": {
-                    "value": 4.0,
-                    "unit": "servings"
-                },
-                "us": {
-                    "value": 4.0,
-                    "unit": "servings"
-                }
-            }
-        },
-        {
-            "name": "zucchini",
-            "image": "zucchini.jpg",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": "medium"
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": "medium"
-                }
-            }
-        },
-        {
-            "name": "cooked ounce",
-            "image": "no.jpg",
-            "amount": {
-                "metric": {
-                    "value": 28.35,
-                    "unit": "g"
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": "ounce"
-                }
-            }
-        }
+        
+        "apple cider vinegar",
+        
+        "cherry tomatoes",
+        
+        "fresh ginger",
+        
+        "green pepper",
+        
+        "lemon juice",
+        
+        "lower-sodium soy sauce",
+        
+        "mushrooms",
+        
+        "onion",
+        
+        "orange juice concentrate",
+        
+        "frozen tofu",
+        
+        "excess water squeezed out",
+        
+        "zucchini",
+        
+        "cooked ounce"
     ]
 },
 {
@@ -1740,216 +336,36 @@
     "image": "https://spoonacular.com/recipeImages/662375-312x231.jpg",
     "imageType": "jpg",
     "ingredients": [
-        {
-            "name": "balsamic vinegar",
-            "image": "balsamic-vinegar.jpg",
-            "amount": {
-                "metric": {
-                    "value": 127.5,
-                    "unit": "ml"
-                },
-                "us": {
-                    "value": 0.5,
-                    "unit": "cup"
-                }
-            }
-        },
-        {
-            "name": "yellow red & bell pepper",
-            "image": "yellow-bell-pepper.jpg",
-            "amount": {
-                "metric": {
-                    "value": 4.0,
-                    "unit": "servings"
-                },
-                "us": {
-                    "value": 4.0,
-                    "unit": "servings"
-                }
-            }
-        },
-        {
-            "name": "brown sugar",
-            "image": "light-brown-sugar.jpg",
-            "amount": {
-                "metric": {
-                    "value": 110.0,
-                    "unit": "g"
-                },
-                "us": {
-                    "value": 0.5,
-                    "unit": "cup"
-                }
-            }
-        },
-        {
-            "name": "whole button mushrooms",
-            "image": "mushrooms-white.jpg",
-            "amount": {
-                "metric": {
-                    "value": 24.0,
-                    "unit": ""
-                },
-                "us": {
-                    "value": 24.0,
-                    "unit": ""
-                }
-            }
-        },
-        {
-            "name": "fresh ginger",
-            "image": "ginger.png",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": "inch"
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": "inch"
-                }
-            }
-        },
-        {
-            "name": "fresh thyme",
-            "image": "thyme.jpg",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": "tsp"
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": "tsp"
-                }
-            }
-        },
-        {
-            "name": "garlic",
-            "image": "garlic.png",
-            "amount": {
-                "metric": {
-                    "value": 4.0,
-                    "unit": "cloves"
-                },
-                "us": {
-                    "value": 4.0,
-                    "unit": "cloves"
-                }
-            }
-        },
-        {
-            "name": "green onions",
-            "image": "spring-onions.jpg",
-            "amount": {
-                "metric": {
-                    "value": 4.0,
-                    "unit": ""
-                },
-                "us": {
-                    "value": 4.0,
-                    "unit": ""
-                }
-            }
-        },
-        {
-            "name": "green onions",
-            "image": "spring-onions.jpg",
-            "amount": {
-                "metric": {
-                    "value": 4.0,
-                    "unit": "servings"
-                },
-                "us": {
-                    "value": 4.0,
-                    "unit": "servings"
-                }
-            }
-        },
-        {
-            "name": "pepper",
-            "image": "pepper.jpg",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": "tsp"
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": "tsp"
-                }
-            }
-        },
-        {
-            "name": "canned fresh pineapple",
-            "image": "pineapple-with-can.png",
-            "amount": {
-                "metric": {
-                    "value": 24.0,
-                    "unit": "cubes"
-                },
-                "us": {
-                    "value": 24.0,
-                    "unit": "cubes"
-                }
-            }
-        },
-        {
-            "name": "pineapple juice",
-            "image": "pineapple-juice.jpg",
-            "amount": {
-                "metric": {
-                    "value": 118.0,
-                    "unit": "ml"
-                },
-                "us": {
-                    "value": 0.5,
-                    "unit": "cup"
-                }
-            }
-        },
-        {
-            "name": "lean ribeye steaks",
-            "image": "ribeye-raw.jpg",
-            "amount": {
-                "metric": {
-                    "value": 907.185,
-                    "unit": "g"
-                },
-                "us": {
-                    "value": 2.0,
-                    "unit": "pounds"
-                }
-            }
-        },
-        {
-            "name": "shrimp",
-            "image": "shrimp.png",
-            "amount": {
-                "metric": {
-                    "value": 24.0,
-                    "unit": "large"
-                },
-                "us": {
-                    "value": 24.0,
-                    "unit": "large"
-                }
-            }
-        },
-        {
-            "name": "soy sauce",
-            "image": "soy-sauce.jpg",
-            "amount": {
-                "metric": {
-                    "value": 232.0,
-                    "unit": "ml"
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": "cup"
-                }
-            }
-        }
+        
+        "balsamic vinegar",
+        
+        "yellow red & bell pepper",
+        
+        "brown sugar",
+        
+        "whole button mushrooms",
+        
+        "fresh ginger",
+        
+        "fresh thyme",
+        
+        "garlic",
+        
+        "green onions",
+        
+        "green onions",
+        
+        "pepper",
+        
+        "canned fresh pineapple",
+        
+        "pineapple juice",
+        
+        "lean ribeye steaks",
+        
+        "shrimp",
+        
+        "soy sauce"
     ]
 },
 {
@@ -1958,216 +374,37 @@
     "image": "https://spoonacular.com/recipeImages/630484-312x231.jpg",
     "imageType": "jpg",
     "ingredients": [
-        {
-            "name": "chicken breast fillets",
-            "image": "chicken-breasts.png",
-            "amount": {
-                "metric": {
-                    "value": 300.0,
-                    "unit": "g"
-                },
-                "us": {
-                    "value": 10.582,
-                    "unit": "oz"
-                }
-            }
-        },
-        {
-            "name": "garlic",
-            "image": "garlic.png",
-            "amount": {
-                "metric": {
-                    "value": 2.0,
-                    "unit": "cloves"
-                },
-                "us": {
-                    "value": 2.0,
-                    "unit": "cloves"
-                }
-            }
-        },
-        {
-            "name": "green bell pepper",
-            "image": "green-pepper.jpg",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": ""
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": ""
-                }
-            }
-        },
-        {
-            "name": "honey",
-            "image": "honey.png",
-            "amount": {
-                "metric": {
-                    "value": 0.5,
-                    "unit": "Tbsps"
-                },
-                "us": {
-                    "value": 0.5,
-                    "unit": "Tbsps"
-                }
-            }
-        },
-        {
-            "name": "ketchup",
-            "image": "ketchup.png",
-            "amount": {
-                "metric": {
-                    "value": 0.5,
-                    "unit": "Tbsps"
-                },
-                "us": {
-                    "value": 0.5,
-                    "unit": "Tbsps"
-                }
-            }
-        },
-        {
-            "name": "fresh champignon mushrooms",
-            "image": "mushrooms-white.jpg",
-            "amount": {
-                "metric": {
-                    "value": 48.0,
-                    "unit": "ml"
-                },
-                "us": {
-                    "value": 0.5,
-                    "unit": "cup"
-                }
-            }
-        },
-        {
-            "name": "mustard",
-            "image": "regular-mustard.jpg",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": "tsp"
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": "tsp"
-                }
-            }
-        },
-        {
-            "name": "paprika",
-            "image": "paprika.jpg",
-            "amount": {
-                "metric": {
-                    "value": 0.5,
-                    "unit": "tsps"
-                },
-                "us": {
-                    "value": 0.5,
-                    "unit": "tsps"
-                }
-            }
-        },
-        {
-            "name": "bell pepper",
-            "image": "bell-pepper-orange.png",
-            "amount": {
-                "metric": {
-                    "value": 2.0,
-                    "unit": "servings"
-                },
-                "us": {
-                    "value": 2.0,
-                    "unit": "servings"
-                }
-            }
-        },
-        {
-            "name": "red onion",
-            "image": "red-onion.png",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": ""
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": ""
-                }
-            }
-        },
-        {
-            "name": "salt",
-            "image": "salt.jpg",
-            "amount": {
-                "metric": {
-                    "value": 2.0,
-                    "unit": "servings"
-                },
-                "us": {
-                    "value": 2.0,
-                    "unit": "servings"
-                }
-            }
-        },
-        {
-            "name": "soya sauce",
-            "image": "soy-sauce.jpg",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": "Tbsp"
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": "Tbsp"
-                }
-            }
-        },
-        {
-            "name": "tomato",
-            "image": "tomato.png",
-            "amount": {
-                "metric": {
-                    "value": 3.0,
-                    "unit": ""
-                },
-                "us": {
-                    "value": 3.0,
-                    "unit": ""
-                }
-            }
-        },
-        {
-            "name": "zucchini",
-            "image": "zucchini.jpg",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": "medium"
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": "medium"
-                }
-            }
-        },
-        {
-            "name": "wooden kabob skewers",
-            "image": "no.jpg",
-            "amount": {
-                "metric": {
-                    "value": 2.0,
-                    "unit": "servings"
-                },
-                "us": {
-                    "value": 2.0,
-                    "unit": "servings"
-                }
-            }
-        }
+        
+        "chicken breast fillets",
+        
+        "garlic",
+        
+        "green bell pepper",
+        
+        "honey",
+        
+        "ketchup",
+        
+        "fresh champignon mushrooms",
+        
+        "mustard",
+        
+        "paprika",
+        
+        "bell pepper",
+        
+        "red onion",
+        
+        "salt",
+        
+        "soya sauce",
+        
+        "tomato",
+        
+        "zucchini",
+        
+        "wooden kabob skewers"
+    ]
 },
 {
     "id": 638218,
@@ -2175,188 +412,32 @@
     "image": "https://spoonacular.com/recipeImages/638218-312x231.jpg",
     "imageType": "jpg",
     "ingredients": [
-        {
-            "name": "skinless boneless chicken breasts",
-            "image": "chicken-breasts.png",
-            "amount": {
-                "metric": {
-                    "value": 2.0,
-                    "unit": ""
-                },
-                "us": {
-                    "value": 2.0,
-                    "unit": ""
-                }
-            }
-        },
-        {
-            "name": "red onion",
-            "image": "red-onion.png",
-            "amount": {
-                "metric": {
-                    "value": 0.75,
-                    "unit": ""
-                },
-                "us": {
-                    "value": 0.75,
-                    "unit": ""
-                }
-            }
-        },
-        {
-            "name": "navel orange",
-            "image": "mandarin-or-tangerines-or-clementines.jpg",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": ""
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": ""
-                }
-            }
-        },
-        {
-            "name": "zucchini",
-            "image": "zucchini.jpg",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": "medium"
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": "medium"
-                }
-            }
-        },
-        {
-            "name": "olive oil",
-            "image": "olive-oil.jpg",
-            "amount": {
-                "metric": {
-                    "value": 2.0,
-                    "unit": "Tbsps"
-                },
-                "us": {
-                    "value": 2.0,
-                    "unit": "Tbsps"
-                }
-            }
-        },
-        {
-            "name": "tsp garlic powder",
-            "image": "garlic-powder.png",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": ""
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": ""
-                }
-            }
-        },
-        {
-            "name": "tsp onion powder",
-            "image": "onion-powder.jpg",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": ""
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": ""
-                }
-            }
-        },
-        {
-            "name": "tsp pepper",
-            "image": "pepper.jpg",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": ""
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": ""
-                }
-            }
-        },
-        {
-            "name": "tsp salt",
-            "image": "salt.jpg",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": ""
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": ""
-                }
-            }
-        },
-        {
-            "name": "tsp chili powder",
-            "image": "chili-powder.jpg",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": ""
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": ""
-                }
-            }
-        },
-        {
-            "name": "tsp paprika",
-            "image": "bell-pepper-orange.png",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": ""
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": ""
-                }
-            }
-        },
-        {
-            "name": "orange (juice)",
-            "image": "mandarin-or-tangerines-or-clementines.jpg",
-            "amount": {
-                "metric": {
-                    "value": 0.5,
-                    "unit": ""
-                },
-                "us": {
-                    "value": 0.5,
-                    "unit": ""
-                }
-            }
-        },
-        {
-            "name": "orange zest",
-            "image": "orange-zest.png",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": ""
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": ""
-                }
-            }
-        }
+        
+        "skinless boneless chicken breasts",
+        
+        "red onion",
+        
+        "navel orange",
+        
+        "zucchini",
+        
+        "olive oil",
+        
+        "tsp garlic powder",
+        
+        "tsp onion powder",
+        
+        "tsp pepper",
+        
+        "tsp salt",
+        
+        "tsp chili powder",
+        
+        "tsp paprika",
+        
+        "orange (juice)",
+        
+        "orange zest"
     ]
 },
 {
@@ -2365,90 +446,18 @@
     "image": "https://spoonacular.com/recipeImages/716330-312x231.jpg",
     "imageType": "jpg",
     "ingredients": [
-        {
-            "name": "skinless chicken breast",
-            "image": "chicken-breasts.png",
-            "amount": {
-                "metric": {
-                    "value": 113.398,
-                    "unit": "g"
-                },
-                "us": {
-                    "value": 0.25,
-                    "unit": "pound"
-                }
-            }
-        },
-        {
-            "name": "chicken stock cube",
-            "image": "stock-cube.jpg",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": ""
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": ""
-                }
-            }
-        },
-        {
-            "name": "canned mangos",
-            "image": "mango.jpg",
-            "amount": {
-                "metric": {
-                    "value": 2.0,
-                    "unit": "medium"
-                },
-                "us": {
-                    "value": 2.0,
-                    "unit": "medium"
-                }
-            }
-        },
-        {
-            "name": "dry pepper",
-            "image": "red-pepper-flakes.jpg",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": "Tbsp"
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": "Tbsp"
-                }
-            }
-        },
-        {
-            "name": "suya seasoning mix",
-            "image": "seasoning.png",
-            "amount": {
-                "metric": {
-                    "value": 1.5,
-                    "unit": "Tbsps"
-                },
-                "us": {
-                    "value": 1.5,
-                    "unit": "Tbsps"
-                }
-            }
-        },
-        {
-            "name": "cooking spoon of vegetable oil",
-            "image": "vegetable-oil.jpg",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": ""
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": ""
-                }
-            }
-        }
+        
+        "skinless chicken breast",
+        
+        "chicken stock cube",
+        
+        "canned mangos",
+        
+        "dry pepper",
+        
+        "suya seasoning mix",
+        
+        "cooking spoon of vegetable oil"
     ]
 },
 {
@@ -2457,118 +466,22 @@
     "image": "https://spoonacular.com/recipeImages/665550-312x231.jpg",
     "imageType": "jpg",
     "ingredients": [
-        {
-            "name": "veg oil",
-            "image": "vegetable-oil.jpg",
-            "amount": {
-                "metric": {
-                    "value": 5.0,
-                    "unit": "Tbsps"
-                },
-                "us": {
-                    "value": 5.0,
-                    "unit": "Tbsps"
-                }
-            }
-        },
-        {
-            "name": "cumin",
-            "image": "ground-cumin.jpg",
-            "amount": {
-                "metric": {
-                    "value": 59.147,
-                    "unit": "g"
-                },
-                "us": {
-                    "value": 0.25,
-                    "unit": "cup"
-                }
-            }
-        },
-        {
-            "name": "leg of lamb",
-            "image": "leg-of-lamb.png",
-            "amount": {
-                "metric": {
-                    "value": 2.858,
-                    "unit": "kgs"
-                },
-                "us": {
-                    "value": 10.0,
-                    "unit": "pounds"
-                }
-            }
-        },
-        {
-            "name": "nutmeg",
-            "image": "ground-nutmeg.jpg",
-            "amount": {
-                "metric": {
-                    "value": 0.5,
-                    "unit": "tsps"
-                },
-                "us": {
-                    "value": 0.5,
-                    "unit": "tsps"
-                }
-            }
-        },
-        {
-            "name": "paprika",
-            "image": "paprika.jpg",
-            "amount": {
-                "metric": {
-                    "value": 2.0,
-                    "unit": "Tbsps"
-                },
-                "us": {
-                    "value": 2.0,
-                    "unit": "Tbsps"
-                }
-            }
-        },
-        {
-            "name": "plain yogurt",
-            "image": "plain-yogurt.jpg",
-            "amount": {
-                "metric": {
-                    "value": 80.0,
-                    "unit": "g"
-                },
-                "us": {
-                    "value": 2.822,
-                    "unit": "oz"
-                }
-            }
-        },
-        {
-            "name": "salt",
-            "image": "salt.jpg",
-            "amount": {
-                "metric": {
-                    "value": 0.25,
-                    "unit": "tsps"
-                },
-                "us": {
-                    "value": 0.25,
-                    "unit": "tsps"
-                }
-            }
-        },
-        {
-            "name": "tumeric",
-            "image": "turmeric.jpg",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": "Tbsp"
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": "Tbsp"
-                }
-            }
-        }
+        
+        "veg oil",
+        
+        "cumin",
+        
+        "leg of lamb",
+        
+        "nutmeg",
+        
+        "paprika",
+        
+        "plain yogurt",
+        
+        "salt",
+        
+        "tumeric"
     ]
 },
 {
@@ -2577,118 +490,22 @@
     "image": "https://spoonacular.com/recipeImages/663157-312x231.jpg",
     "imageType": "jpg",
     "ingredients": [
-        {
-            "name": "yu choy",
-            "image": "choy-sum.jpg",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": "bunch"
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": "bunch"
-                }
-            }
-        },
-        {
-            "name": "brown sugar",
-            "image": "light-brown-sugar.jpg",
-            "amount": {
-                "metric": {
-                    "value": 55.0,
-                    "unit": "g"
-                },
-                "us": {
-                    "value": 0.25,
-                    "unit": "cup"
-                }
-            }
-        },
-        {
-            "name": "chili sauce",
-            "image": "tomato-sauce-or-pasta-sauce.jpg",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": "tsp"
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": "tsp"
-                }
-            }
-        },
-        {
-            "name": "fish sauce",
-            "image": "asian-fish-sauce.jpg",
-            "amount": {
-                "metric": {
-                    "value": 2.0,
-                    "unit": "Tbsps"
-                },
-                "us": {
-                    "value": 2.0,
-                    "unit": "Tbsps"
-                }
-            }
-        },
-        {
-            "name": "fresh ginger",
-            "image": "ginger.png",
-            "amount": {
-                "metric": {
-                    "value": 2.0,
-                    "unit": "Tbsps"
-                },
-                "us": {
-                    "value": 2.0,
-                    "unit": "Tbsps"
-                }
-            }
-        },
-        {
-            "name": "dried ground turmeric",
-            "image": "turmeric.jpg",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": "Tbsp"
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": "Tbsp"
-                }
-            }
-        },
-        {
-            "name": "lime",
-            "image": "lime.jpg",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": ""
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": ""
-                }
-            }
-        },
-        {
-            "name": "salmon fillet",
-            "image": "salmon.png",
-            "amount": {
-                "metric": {
-                    "value": 680.389,
-                    "unit": "g"
-                },
-                "us": {
-                    "value": 1.5,
-                    "unit": "pounds"
-                }
-            }
-        }
+        
+        "yu choy",
+        
+        "brown sugar",
+        
+        "chili sauce",
+        
+        "fish sauce",
+        
+        "fresh ginger",
+        
+        "dried ground turmeric",
+        
+        "lime",
+        
+        "salmon fillet"
     ]
 },
 {
@@ -2697,173 +514,30 @@
     "image": "https://spoonacular.com/recipeImages/664575-312x231.jpg",
     "imageType": "jpg",
     "ingredients": [
-        {
-            "name": "green bell pepper",
-            "image": "green-pepper.jpg",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": ""
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": ""
-                }
-            }
-        },
-        {
-            "name": "red onion",
-            "image": "red-onion.png",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": ""
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": ""
-                }
-            }
-        },
-        {
-            "name": "tomato",
-            "image": "tomato.png",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": ""
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": ""
-                }
-            }
-        },
-        {
-            "name": "paneer 1\" x 1\"",
-            "image": "paneer.png",
-            "amount": {
-                "metric": {
-                    "value": 8.0,
-                    "unit": ""
-                },
-                "us": {
-                    "value": 8.0,
-                    "unit": ""
-                }
-            }
-        },
-        {
-            "name": "olive oil",
-            "image": "olive-oil.jpg",
-            "amount": {
-                "metric": {
-                    "value": 2.0,
-                    "unit": "tsps"
-                },
-                "us": {
-                    "value": 2.0,
-                    "unit": "tsps"
-                }
-            }
-        },
-        {
-            "name": "yogurt",
-            "image": "plain-yogurt.jpg",
-            "amount": {
-                "metric": {
-                    "value": 122.5,
-                    "unit": "ml"
-                },
-                "us": {
-                    "value": 0.5,
-                    "unit": "cup"
-                }
-            }
-        },
-        {
-            "name": "olive oil",
-            "image": "olive-oil.jpg",
-            "amount": {
-                "metric": {
-                    "value": 0.5,
-                    "unit": "tsps"
-                },
-                "us": {
-                    "value": 0.5,
-                    "unit": "tsps"
-                }
-            }
-        },
-        {
-            "name": "ginger garlic paste",
-            "image": "ginger-garlic-paste.png",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": "tsp"
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": "tsp"
-                }
-            }
-        },
-        {
-            "name": "red salt& chilli powder",
-            "image": "chili-powder.jpg",
-            "amount": {
-                "metric": {
-                    "value": 6.0,
-                    "unit": "servings"
-                },
-                "us": {
-                    "value": 6.0,
-                    "unit": "servings"
-                }
-            }
-        },
-        {
-            "name": "chaat masala",
-            "image": "ground-coriander.jpg",
-            "amount": {
-                "metric": {
-                    "value": 0.5,
-                    "unit": "tsps"
-                },
-                "us": {
-                    "value": 0.5,
-                    "unit": "tsps"
-                }
-            }
-        },
-        {
-            "name": "jeera powder",
-            "image": "white-powder.jpg",
-            "amount": {
-                "metric": {
-                    "value": 0.5,
-                    "unit": "tsps"
-                },
-                "us": {
-                    "value": 0.5,
-                    "unit": "tsps"
-                }
-            }
-        },
-        {
-            "name": "green chilli and 3 cilantro",
-            "image": "red-chili.jpg",
-            "amount": {
-                "metric": {
-                    "value": 1.0,
-                    "unit": "leaf"
-                },
-                "us": {
-                    "value": 1.0,
-                    "unit": "leaf"
-                }
-            }
-        }
+        
+        "green bell pepper",
+        
+        "red onion",
+        
+        "tomato",
+        
+        "paneer 1\" x 1\"",
+        
+        "olive oil",
+        
+        "yogurt",
+        
+        "olive oil",
+        
+        "ginger garlic paste",
+        
+        "red salt& chilli powder",
+        
+        "chaat masala",
+        
+        "jeera powder",
+        
+        "green chilli and 3 cilantro"
     ]
-}]
+}
+]
