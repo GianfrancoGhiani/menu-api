@@ -3000,14 +3000,525 @@
             "id": 631814,
             "title": "$50,000 Burger",
             "image": "https://spoonacular.com/recipeImages/631814-312x231.jpg",
-            "imageType": "jpg"
+            "imageType": "jpg",
+            "ingredients": [
+                {
+                    "name": "pre-washed bagged baby arugula",
+                    "image": "arugula-or-rocket-salad.jpg",
+                    "amount": {
+                        "metric": {
+                            "value": 30.0,
+                            "unit": "g"
+                        },
+                        "us": {
+                            "value": 1.5,
+                            "unit": "cups"
+                        }
+                    }
+                },
+                {
+                    "name": "black thick-cut regular bacon",
+                    "image": "raw-bacon.png",
+                    "amount": {
+                        "metric": {
+                            "value": 4.0,
+                            "unit": "slice"
+                        },
+                        "us": {
+                            "value": 4.0,
+                            "unit": "slice"
+                        }
+                    }
+                },
+                {
+                    "name": "drain off the bacon fat from the skillet",
+                    "image": "raw-bacon.png",
+                    "amount": {
+                        "metric": {
+                            "value": 4.0,
+                            "unit": "servings"
+                        },
+                        "us": {
+                            "value": 4.0,
+                            "unit": "servings"
+                        }
+                    }
+                },
+                {
+                    "name": "balsamic vinegar",
+                    "image": "balsamic-vinegar.jpg",
+                    "amount": {
+                        "metric": {
+                            "value": 2.0,
+                            "unit": "Tbsps"
+                        },
+                        "us": {
+                            "value": 2.0,
+                            "unit": "Tbsps"
+                        }
+                    }
+                },
+                {
+                    "name": "combine the chuck",
+                    "image": "sundried-tomatoes.jpg",
+                    "amount": {
+                        "metric": {
+                            "value": 2.0,
+                            "unit": ""
+                        },
+                        "us": {
+                            "value": 2.0,
+                            "unit": ""
+                        }
+                    }
+                },
+                {
+                    "name": "fennel bulbs",
+                    "image": "fennel.png",
+                    "amount": {
+                        "metric": {
+                            "value": 1.0,
+                            "unit": "medium"
+                        },
+                        "us": {
+                            "value": 1.0,
+                            "unit": "medium"
+                        }
+                    }
+                },
+                {
+                    "name": "fresh basil leaves",
+                    "image": "fresh-basil.jpg",
+                    "amount": {
+                        "metric": {
+                            "value": 3.0,
+                            "unit": "Tbsps"
+                        },
+                        "us": {
+                            "value": 3.0,
+                            "unit": "Tbsps"
+                        }
+                    }
+                },
+                {
+                    "name": "fresh figs",
+                    "image": "figs-fresh.jpg",
+                    "amount": {
+                        "metric": {
+                            "value": 4.0,
+                            "unit": ""
+                        },
+                        "us": {
+                            "value": 4.0,
+                            "unit": ""
+                        }
+                    }
+                },
+                {
+                    "name": "garlic cloves",
+                    "image": "garlic.jpg",
+                    "amount": {
+                        "metric": {
+                            "value": 1.0,
+                            "unit": ""
+                        },
+                        "us": {
+                            "value": 1.0,
+                            "unit": ""
+                        }
+                    }
+                },
+                {
+                    "name": "ground turkey",
+                    "image": "meat-ground.jpg",
+                    "amount": {
+                        "metric": {
+                            "value": 226.796,
+                            "unit": "g"
+                        },
+                        "us": {
+                            "value": 0.5,
+                            "unit": "pound"
+                        }
+                    }
+                },
+                {
+                    "name": "split hamburger buns",
+                    "image": "hamburger-bun.jpg",
+                    "amount": {
+                        "metric": {
+                            "value": 2.0,
+                            "unit": ""
+                        },
+                        "us": {
+                            "value": 2.0,
+                            "unit": ""
+                        }
+                    }
+                },
+                {
+                    "name": "split aged teleme cheese thinly 2 • hamburger buns",
+                    "image": "hamburger-bun.jpg",
+                    "amount": {
+                        "metric": {
+                            "value": 56.699,
+                            "unit": "g"
+                        },
+                        "us": {
+                            "value": 2.0,
+                            "unit": "ounces"
+                        }
+                    }
+                },
+                {
+                    "name": "prepare a medium-hot fire in a charcoal grill",
+                    "image": "hotdogs.png",
+                    "amount": {
+                        "metric": {
+                            "value": 4.0,
+                            "unit": "servings"
+                        },
+                        "us": {
+                            "value": 4.0,
+                            "unit": "servings"
+                        }
+                    }
+                },
+                {
+                    "name": "lemons",
+                    "image": "lemon.png",
+                    "amount": {
+                        "metric": {
+                            "value": 0.5,
+                            "unit": ""
+                        },
+                        "us": {
+                            "value": 0.5,
+                            "unit": ""
+                        }
+                    }
+                },
+                {
+                    "name": "olive oil",
+                    "image": "olive-oil.jpg",
+                    "amount": {
+                        "metric": {
+                            "value": 0.5,
+                            "unit": "Tbsps"
+                        },
+                        "us": {
+                            "value": 0.5,
+                            "unit": "Tbsps"
+                        }
+                    }
+                },
+                {
+                    "name": "olive oil",
+                    "image": "olive-oil.jpg",
+                    "amount": {
+                        "metric": {
+                            "value": 2.0,
+                            "unit": "Tbsps"
+                        },
+                        "us": {
+                            "value": 2.0,
+                            "unit": "Tbsps"
+                        }
+                    }
+                },
+                {
+                    "name": "onion",
+                    "image": "brown-onion.png",
+                    "amount": {
+                        "metric": {
+                            "value": 2.0,
+                            "unit": "Tbsps"
+                        },
+                        "us": {
+                            "value": 2.0,
+                            "unit": "Tbsps"
+                        }
+                    }
+                },
+                {
+                    "name": "salt",
+                    "image": "salt.jpg",
+                    "amount": {
+                        "metric": {
+                            "value": 1.0,
+                            "unit": "pinch"
+                        },
+                        "us": {
+                            "value": 1.0,
+                            "unit": "pinch"
+                        }
+                    }
+                },
+                {
+                    "name": "salt",
+                    "image": "salt.jpg",
+                    "amount": {
+                        "metric": {
+                            "value": 4.0,
+                            "unit": "servings"
+                        },
+                        "us": {
+                            "value": 4.0,
+                            "unit": "servings"
+                        }
+                    }
+                },
+                {
+                    "name": "salt",
+                    "image": "salt.jpg",
+                    "amount": {
+                        "metric": {
+                            "value": 4.0,
+                            "unit": "servings"
+                        },
+                        "us": {
+                            "value": 4.0,
+                            "unit": "servings"
+                        }
+                    }
+                },
+                {
+                    "name": "sun-dried tomatoes",
+                    "image": "sundried-tomatoes.jpg",
+                    "amount": {
+                        "metric": {
+                            "value": 3.0,
+                            "unit": "Tbsps"
+                        },
+                        "us": {
+                            "value": 3.0,
+                            "unit": "Tbsps"
+                        }
+                    }
+                },
+                {
+                    "name": "to assemble the burgers",
+                    "image": "raw-bacon.png",
+                    "amount": {
+                        "metric": {
+                            "value": 1.0,
+                            "unit": "servings"
+                        },
+                        "us": {
+                            "value": 1.0,
+                            "unit": "servings"
+                        }
+                    }
+                },
+                {
+                    "name": "vegetable oil",
+                    "image": "vegetable-oil.jpg",
+                    "amount": {
+                        "metric": {
+                            "value": 3.0,
+                            "unit": "Tbsps"
+                        },
+                        "us": {
+                            "value": 3.0,
+                            "unit": "Tbsps"
+                        }
+                    }
+                },
+                {
+                    "name": "walnuts",
+                    "image": "walnuts.jpg",
+                    "amount": {
+                        "metric": {
+                            "value": 4.0,
+                            "unit": "Tbsps"
+                        },
+                        "us": {
+                            "value": 4.0,
+                            "unit": "Tbsps"
+                        }
+                    }
+                },
+                {
+                    "name": "heat a",
+                    "image": "no.jpg",
+                    "amount": {
+                        "metric": {
+                            "value": 1.0,
+                            "unit": "large"
+                        },
+                        "us": {
+                            "value": 1.0,
+                            "unit": "large"
+                        }
+                    }
+                }
+            ]
         },
+
         {
             "id": 642539,
             "title": "Falafel Burger",
             "image": "https://spoonacular.com/recipeImages/642539-312x231.png",
-            "imageType": "png"
+            "imageType": "png",
+            "ingredients": [
+                {
+                    "name": "canned chickpeas",
+                    "image": "chickpeas.png",
+                    "amount": {
+                        "metric": {
+                            "value": 540.0,
+                            "unit": "ml"
+                        },
+                        "us": {
+                            "value": 2.282,
+                            "unit": "cups"
+                        }
+                    }
+                },
+                {
+                    "name": "tahini",
+                    "image": "tahini-paste.png",
+                    "amount": {
+                        "metric": {
+                            "value": 2.0,
+                            "unit": "tsps"
+                        },
+                        "us": {
+                            "value": 2.0,
+                            "unit": "tsps"
+                        }
+                    }
+                },
+                {
+                    "name": "sriracha sauce",
+                    "image": "hot-sauce-or-tabasco.png",
+                    "amount": {
+                        "metric": {
+                            "value": 0.5,
+                            "unit": "tsps"
+                        },
+                        "us": {
+                            "value": 0.5,
+                            "unit": "tsps"
+                        }
+                    }
+                },
+                {
+                    "name": "garlic",
+                    "image": "garlic.png",
+                    "amount": {
+                        "metric": {
+                            "value": 3.0,
+                            "unit": "cloves"
+                        },
+                        "us": {
+                            "value": 3.0,
+                            "unit": "cloves"
+                        }
+                    }
+                },
+                {
+                    "name": "fresh parsley",
+                    "image": "parsley.jpg",
+                    "amount": {
+                        "metric": {
+                            "value": 3.0,
+                            "unit": "Tbsps"
+                        },
+                        "us": {
+                            "value": 3.0,
+                            "unit": "Tbsps"
+                        }
+                    }
+                },
+                {
+                    "name": "red diced onion",
+                    "image": "red-onion.png",
+                    "amount": {
+                        "metric": {
+                            "value": 0.25,
+                            "unit": "large"
+                        },
+                        "us": {
+                            "value": 0.25,
+                            "unit": "large"
+                        }
+                    }
+                },
+                {
+                    "name": "peanut oil",
+                    "image": "peanut-oil.jpg",
+                    "amount": {
+                        "metric": {
+                            "value": 4.0,
+                            "unit": "Tbsps"
+                        },
+                        "us": {
+                            "value": 4.0,
+                            "unit": "Tbsps"
+                        }
+                    }
+                },
+                {
+                    "name": "cucumber",
+                    "image": "cucumber.jpg",
+                    "amount": {
+                        "metric": {
+                            "value": 8.0,
+                            "unit": "slice"
+                        },
+                        "us": {
+                            "value": 8.0,
+                            "unit": "slice"
+                        }
+                    }
+                },
+                {
+                    "name": "tomato",
+                    "image": "tomato.png",
+                    "amount": {
+                        "metric": {
+                            "value": 8.0,
+                            "unit": "slice"
+                        },
+                        "us": {
+                            "value": 8.0,
+                            "unit": "slice"
+                        }
+                    }
+                },
+                {
+                    "name": "hamburger buns",
+                    "image": "hamburger-bun.jpg",
+                    "amount": {
+                        "metric": {
+                            "value": 4.0,
+                            "unit": ""
+                        },
+                        "us": {
+                            "value": 4.0,
+                            "unit": ""
+                        }
+                    }
+                },
+                {
+                    "name": "tzatziki",
+                    "image": "raita-or-tzaziki.png",
+                    "amount": {
+                        "metric": {
+                            "value": 4.0,
+                            "unit": "servings"
+                        },
+                        "us": {
+                            "value": 4.0,
+                            "unit": "servings"
+                        }
+                    }
+                }
+            ]
         },
+
+        
         {
             "id": 663050,
             "title": "Tex-Mex Burger",
@@ -3120,73 +3631,14 @@
             "title": "Chinese Veg Fried rice",
             "image": "https://spoonacular.com/recipeImages/638729-312x231.jpg",
             "imageType": "jpg"
-        },
+        }
 
     ]]
 
 
 
 
-        {
-            "id": 716364,
-            "title": "Rice and Peas with Coconut Curry Mackerel",
-            "image": "https://spoonacular.com/recipeImages/716364-312x231.jpg",
-            "imageType": "jpg"
-        },
-        {
-            "id": 641111,
-            "title": "Curry Beef Over Rice Noodles",
-            "image": "https://spoonacular.com/recipeImages/641111-312x231.jpg",
-            "imageType": "jpg"
-        },
-        {
-            "id": 661287,
-            "title": "Spinach Chickpea - Palak Chana Rice",
-            "image": "https://spoonacular.com/recipeImages/661287-312x231.jpg",
-            "imageType": "jpg"
-        },
-        {
-            "id": 657085,
-            "title": "Prawn Biryani( Shrimps In Aromatic and Flavored Indian Rice)",
-            "image": "https://spoonacular.com/recipeImages/657085-312x231.jpg",
-            "imageType": "jpg"
-        },
-        {
-            "id": 657095,
-            "title": "Prawn Curry",
-            "image": "https://spoonacular.com/recipeImages/657095-312x231.jpg",
-            "imageType": "jpg"
-        },
-        {
-            "id": 654371,
-            "title": "Palak Gosht",
-            "image": "https://spoonacular.com/recipeImages/654371-312x231.jpg",
-            "imageType": "jpg"
-        },
-        {
-            "id": 652814,
-            "title": "Mutton Curry",
-            "image": "https://spoonacular.com/recipeImages/652814-312x231.jpg",
-            "imageType": "jpg"
-        },
-        {
-            "id": 660185,
-            "title": "Singapore Curry",
-            "image": "https://spoonacular.com/recipeImages/660185-312x231.jpg",
-            "imageType": "jpg"
-        },
-        {
-            "id": 632983,
-            "title": "Assam Fish Curry",
-            "image": "https://spoonacular.com/recipeImages/632983-312x231.jpg",
-            "imageType": "jpg"
-        },
-        {
-            "id": 650606,
-            "title": "Madras Beef Curry",
-            "image": "https://spoonacular.com/recipeImages/650606-312x231.jpg",
-            "imageType": "jpg"
-        }
-    ]
+
+    
 
     
