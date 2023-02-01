@@ -1590,61 +1590,216 @@
             "id": 716364,
             "title": "Rice and Peas with Coconut Curry Mackerel",
             "image": "https://spoonacular.com/recipeImages/716364-312x231.jpg",
-            "imageType": "jpg"
+            "imageType": "jpg",
+            "ingredients": [
+                 "coconut milk",
+                 "corn starch",
+                 "curry powder",
+                 "garlic",
+                 "seasoning cubes",
+                 "mackerel",
+                 "bulb of onion",
+                 "red kidney beans",
+                 "rice",
+                 "scotch bonnet peppers"
+            ]
         },
         {
             "id": 641111,
             "title": "Curry Beef Over Rice Noodles",
             "image": "https://spoonacular.com/recipeImages/641111-312x231.jpg",
-            "imageType": "jpg"
+            "imageType": "jpg",
+            "ingredients": [
+                 "curry powder",
+                 "fresh ginger",
+                 "garlic",
+                 "lime juice",
+                 "red onions",
+                 "rice noodles",
+                 "natural roasted peanuts",
+                 "black angus inside round steak",
+                 "soy sauce",
+                 "sambal oelek"
+            ]
         },
         {
             "id": 661287,
             "title": "Spinach Chickpea - Palak Chana Rice",
             "image": "https://spoonacular.com/recipeImages/661287-312x231.jpg",
-            "imageType": "jpg"
+            "imageType": "jpg",
+            "ingredients": [
+                 "cardamom",
+                 "cooked chickpeas",
+                 "cinnamon stick",
+                 "coconut",
+                 "ginger garlic paste",
+                 "green chilies",
+                 "oil",
+                 "onion",
+                 "basmathi rice",
+                 "salt",
+                 "fresh spinach leaves",
+                 "canned water"
+            ]
         },
         {
             "id": 657085,
             "title": "Prawn Biryani( Shrimps In Aromatic and Flavored Indian Rice)",
             "image": "https://spoonacular.com/recipeImages/657085-312x231.jpg",
-            "imageType": "jpg"
+            "imageType": "jpg",
+            "ingredients": [
+                 "basmati rice-500g",
+                 "green cardamom-2",
+                 "chilly powder",
+                 "cinnamon-1",
+                 "coriander leaves)",
+                 "garlic cloves-6 to",
+                 "ghee required",
+                 "ginger)",
+                 "ginger and garlic paste",
+                 "mace/javitri-very few",
+                 "mint leaves)",
+                 "onion big)",
+                 "prawns-500g",
+                 "salt",
+                 "salt",
+                 "star anise-1",
+                 "tomatoes big)",
+                 "turmeric powder",
+                 "curd/yogurt",
+                 "green chillys-5)"
+            ]
         },
         {
             "id": 657095,
             "title": "Prawn Curry",
             "image": "https://spoonacular.com/recipeImages/657095-312x231.jpg",
-            "imageType": "jpg"
+            "imageType": "jpg",
+            "ingredients": [
+                 "basmati rice",
+                 "pods cardamom",
+                 "cinnamon",
+                 "cumin",
+                 "ginger juice",
+                 "ground chili",
+                 "ground coriander",
+                 "ground turmeric",
+                 "oil",
+                 "onions",
+                 "potatoes",
+                 "prawns",
+                 "salt",
+                 "sugar",
+                 "tomatoes",
+                 "yogurt"
+            ]
         },
         {
             "id": 654371,
             "title": "Palak Gosht",
             "image": "https://spoonacular.com/recipeImages/654371-312x231.jpg",
-            "imageType": "jpg"
+            "imageType": "jpg",
+            "ingredients": [
+                 "fry onion till golden brown",
+                 "green chillies nos",
+                 "fresh coriander bunch",
+                 "garlic pod",
+                 "ginger long 2 inch",
+                 "then add water i and cook on flame till meat is tender",
+                 "add meat and fry",
+                 "oil",
+                 "onion nos",
+                 "serve",
+                 "delicious palak gosht is ready",
+                 "spices: salt",
+                 "tomatoes nos",
+                 "boil palak in water",
+                 "mutton",
+                 "cooked green fresh now add palak and cook",
+                 "cooked palak"
+            ]
         },
         {
             "id": 652814,
             "title": "Mutton Curry",
             "image": "https://spoonacular.com/recipeImages/652814-312x231.jpg",
-            "imageType": "jpg"
+            "imageType": "jpg",
+            "ingredients": [
+                 "butter",
+                 "curry",
+                 "parsley",
+                 "peppercorns",
+                 "rice",
+                 "salt",
+                 "thyme",
+                 "water",
+                 "mutton"
+            ]
         },
         {
             "id": 660185,
             "title": "Singapore Curry",
             "image": "https://spoonacular.com/recipeImages/660185-312x231.jpg",
-            "imageType": "jpg"
+            "imageType": "jpg",
+            "ingredients": [
+                 "butter",
+                 "coconut",
+                 "curry powder",
+                 "flour",
+                 "liquid",
+                 "chutney",
+                 "peanuts",
+                 "pineapple chunks",
+                 "rice",
+                 "salt",
+                 "tomato",
+                 "cooked diced turkey"
+            ]
         },
         {
             "id": 632983,
             "title": "Assam Fish Curry",
             "image": "https://spoonacular.com/recipeImages/632983-312x231.jpg",
-            "imageType": "jpg"
+            "imageType": "jpg",
+            "ingredients": [
+                 "white fish steaks/fillets",
+                 "red capsicum",
+                 "red curry paste",
+                 "ginger",
+                 "garlic",
+                 "tamarind paste",
+                 "sugar",
+                 "oyster sauce",
+                 "long stalks lemon grass",
+                 "fresh lime leaves",
+                 "curry leaves",
+                 "shaoxing huatiao wine",
+                 "coconut cream",
+                 "coriander to garnish"
+            ]
         },
         {
             "id": 650606,
             "title": "Madras Beef Curry",
             "image": "https://spoonacular.com/recipeImages/650606-312x231.jpg",
-            "imageType": "jpg"
+            "imageType": "jpg",
+            "ingredients": [
+                 "garam masala",
+                 "ground cinnamon",
+                 "curry powder",
+                 "black pepper",
+                 "salt",
+                 "cayenne pepper",
+                 "light brown sugar",
+                 "garlic cloves",
+                 "ginger",
+                 "lemon juice",
+                 "vegetable oil",
+                 "beef",
+                 "diced canned tomatoes",
+                 "green onions",
+                 "cooked basmati rice"
+            ]
         }
     ]
     }
