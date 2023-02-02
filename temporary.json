@@ -1,1009 +1,291 @@
-"dolci":[
+"dolci":
     {
     "id": 634817,
     "title": "Beignet",
     "image": "https://spoonacular.com/recipeImages/634817-312x231.jpg",
     "imageType": "jpg",
-    "ingredients": [
-        
-        "eggs",
-        
-        "evaporated milk",
-        
-        "flour",
-        
-        "powdered sugar",
-        
-        "salt",
-        
-        "shortening",
-        
-        "sugar",
-        
-        "warm water",
-        
-        "water",
-        
-        "yeast"
-    ]
+    "ingredients":"eggs,evaporated milk,flour,powdered sugar,salt,shortening,sugar, warm water,water, yeast"
+    
 },
 {
     "id": 648898,
     "title": "Kiffles",
     "image": "https://spoonacular.com/recipeImages/648898-312x231.jpg",
     "imageType": "jpg",
-    "ingredients": [
-        
-        "butter",
-        
-        "egg yolks",
-        
-        "flour",
-        
-        "prune butter",
-        
-        "sour cream",
-        
-        "sugar"
-    ]
+    "ingredients":"butter,egg yolks,flour, prune butter,sour cream,sugar"
+    
 },
 {
     "id": 648677,
     "title": "Kadaifi",
     "image": "https://spoonacular.com/recipeImages/648677-312x231.jpg",
     "imageType": "jpg",
-    "ingredients": [
-        
-        "brandy",
-        
-        "breadcrumbs",
-        
-        "butter",
-        
-        "cinnamon",
-        
-        "kantaifi pastry",
-        
-        "glucose",
-        
-        "lemon zest",
-        
-        "margarine",
-        
-        "sugar",
-        
-        "walnuts",
-        
-        "water"
-    ]
-
+    "ingredients":"brandy,breadcrumbs,butter,cinnamon,kantaifi pastry,glucose,lemon zest,margarine,sugar,walnuts, water"
 },
 {
     "id": 645175,
     "title": "Granola",
     "image": "https://spoonacular.com/recipeImages/645175-312x231.jpg",
     "imageType": "jpg",
-    "ingredients": [
-        
-        "almonds",
-        
-        "shredded coconut",
-        
-        "dried craisins",
-        
-        "honey",
-        
-        "dark raisins",
-        
-        "rolled oats",
-        
-        "sesame seeds",
-        
-        "sunflower oil",
-        
-        "sunflower seeds",
-        
-        "water"
-    ]
-
+    "ingredients":"almonds,shredded coconut,dried craisins,honey,dark raisins,rolled oats,sesame seeds,sunflower oil,sunflower seeds,water"
 },
 {
     "id": 647555,
     "title": "Hotcakes",
     "image": "https://spoonacular.com/recipeImages/647555-312x231.jpg",
     "imageType": "jpg",
-    "ingredients": [
-        
-        "baking powder",
-        
-        "egg",
-        
-        "flour",
-        
-        "milk",
-        
-        "sugar",
-        
-        "unsalted butter",
-        
-        "vanilla extract",
-        
-        "yellow food coloring"
-    ]
+    "ingredients":"baking powder,egg,flour,milk,sugar,unsalted butter,vanilla extract,yellow food coloring"
 },
 {
     "id": 648747,
     "title": "Karanjee",
     "image": "https://spoonacular.com/recipeImages/648747-312x231.jpg",
     "imageType": "jpg",
-    "ingredients": [
-        
-        "all purpose flour",
-        
-        "cardamon powder",
-        
-        "coconut",
-        
-        "ghee",
-        
-        "warm milk to prepare dough",
-        
-        "oil",
-        
-        "poppy seeds",
-        
-        "powdered sugar",
-        
-        "salt",
-        
-        "semolina"
-    ]
+    "ingredients":"all purpose flour,cardamon powder,coconut,ghee,warm milk to prepare dough,oil,poppy seeds,powdered sugar,salt,semolina"
 },
 {
     "id": 649012,
     "title": "Kolaches",
     "image": "https://spoonacular.com/recipeImages/649012-312x231.jpg",
     "imageType": "jpg",
-    "ingredients": [
-        
-        "butter",
-        
-        "egg yolks",
-        
-        "flour",
-        
-        "milk",
-        
-        "canned poppy-seed filling",
-        
-        "salt",
-        
-        "shortening",
-        
-        "sugar",
-        
-        "warm water",
-        
-        "packas yeast"
-    ]
+    "ingredients":"butter,egg yolks,flour,milk,canned poppy-seed filling,salt,shortening,sugar,warm water,packas yeast"
 },
 {
     "id": 654495,
     "title": "Pancakes",
     "image": "https://spoonacular.com/recipeImages/654495-312x231.jpg",
     "imageType": "jpg",
-    "ingredients": [
-        
-        "baking powder",
-        
-        "egg",
-        
-        "flour",
-        
-        "margarine",
-        
-        "milk",
-        
-        "salt",
-        
-        "sugar"
-    ]
+    "ingredients":"baking powder,egg,flour,margarine,milk,salt,sugar"  
 },
 {
     "id": 656663,
     "title": "Pop Tart",
     "image": "https://spoonacular.com/recipeImages/656663-312x231.jpg",
     "imageType": "jpg",
-    "ingredients": [
-        
-        "cherry jam",
-        
-        "egg",
-        
-        "granulated sugar",
-        
-        "pie dough",
-        
-        "water"
-    ]
+    "ingredients":"cherry jam,egg,granulated sugar,pie dough,water"
 },
 {
     "id": 634816,
     "title": "Beignets",
     "image": "https://spoonacular.com/recipeImages/634816-312x231.jpg",
     "imageType": "jpg",
-    "ingredients": [
-        
-        "butter",
-        
-        "eggs",
-        
-        "flour",
-        
-        "nutmeg",
-        
-        "oil",
-        
-        "salt",
-        
-        "sugar",
-        
-        "vanilla extract",
-        
-        "water"
-    ]
+    "ingredients":"butter,eggs,flour,nutmeg,oil,salt,sugar,vanilla extract,water"
 }
-],
-"indian":[
+,
+"indian":
     {
         "id": 716364,
         "title": "Rice and Peas with Coconut Curry Mackerel",
         "image": "https://spoonacular.com/recipeImages/716364-312x231.jpg",
         "imageType": "jpg",
-        "ingredients": [
-             "coconut milk",
-             "corn starch",
-             "curry powder",
-             "garlic",
-             "seasoning cubes",
-             "mackerel",
-             "bulb of onion",
-             "red kidney beans",
-             "rice",
-             "scotch bonnet peppers"
-        ]
+        "ingredients":"coconut milk,corn starch,curry powder,garlic,seasoning cubes,mackerel,bulb of onion,red kidney beans,rice,scotch bonnet peppers"
     },
     {
         "id": 641111,
         "title": "Curry Beef Over Rice Noodles",
         "image": "https://spoonacular.com/recipeImages/641111-312x231.jpg",
         "imageType": "jpg",
-        "ingredients": [
-             "curry powder",
-             "fresh ginger",
-             "garlic",
-             "lime juice",
-             "red onions",
-             "rice noodles",
-             "natural roasted peanuts",
-             "black angus inside round steak",
-             "soy sauce",
-             "sambal oelek"
-        ]
+        "ingredients":"curry powder,fresh ginger,garlic,lime juice,red onions,rice noodles,natural roasted peanuts,black angus inside round steak,soy sauce,sambal oelek"  
     },
     {
         "id": 661287,
         "title": "Spinach Chickpea - Palak Chana Rice",
         "image": "https://spoonacular.com/recipeImages/661287-312x231.jpg",
         "imageType": "jpg",
-        "ingredients": [
-             "cardamom",
-             "cooked chickpeas",
-             "cinnamon stick",
-             "coconut",
-             "ginger garlic paste",
-             "green chilies",
-             "oil",
-             "onion",
-             "basmathi rice",
-             "salt",
-             "fresh spinach leaves",
-             "canned water"
-        ]
+        "ingredients":"cardamom,cooked chickpeas,cinnamon stick,coconut,ginger garlic paste,green chilies,oil,onion,basmathi rice,salt,fresh spinach leaves,canned water"
     },
     {
         "id": 657085,
         "title": "Prawn Biryani( Shrimps In Aromatic and Flavored Indian Rice)",
         "image": "https://spoonacular.com/recipeImages/657085-312x231.jpg",
         "imageType": "jpg",
-        "ingredients": [
-             "basmati rice-500g",
-             "green cardamom-2",
-             "chilly powder",
-             "cinnamon-1",
-             "coriander leaves)",
-             "garlic cloves-6 to",
-             "ghee required",
-             "ginger)",
-             "ginger and garlic paste",
-             "mace/javitri-very few",
-             "mint leaves)",
-             "onion big)",
-             "prawns-500g",
-             "salt",
-             "salt",
-             "star anise-1",
-             "tomatoes big)",
-             "turmeric powder",
-             "curd/yogurt",
-             "green chillys-5)"
-        ]
+        "ingredients":"basmati rice,green cardamom-2,chilly powder,cinnamon-1,coriander leaves,garlic cloves-6 to,ghee required,ginger,ginger and garlic paste,mace/javitri-very few,mint leaves,onion big,prawns,salt,salt,star anise-1,tomatoes big,turmeric powder,curd/yogurt,green chillys-5"
     },
     {
         "id": 657095,
         "title": "Prawn Curry",
         "image": "https://spoonacular.com/recipeImages/657095-312x231.jpg",
         "imageType": "jpg",
-        "ingredients": [
-             "basmati rice",
-             "pods cardamom",
-             "cinnamon",
-             "cumin",
-             "ginger juice",
-             "ground chili",
-             "ground coriander",
-             "ground turmeric",
-             "oil",
-             "onions",
-             "potatoes",
-             "prawns",
-             "salt",
-             "sugar",
-             "tomatoes",
-             "yogurt"
-        ]
+        "ingredients":"basmati rice,pods cardamom,cinnamon,cumin,ginger juice,ground chili,ground coriander,ground turmeric,oil,onions,potatoes,prawns,salt,sugar,tomatoes,yogurt"
     },
     {
         "id": 654371,
         "title": "Palak Gosht",
         "image": "https://spoonacular.com/recipeImages/654371-312x231.jpg",
         "imageType": "jpg",
-        "ingredients": [
-             "fry onion till golden brown",
-             "green chillies nos",
-             "fresh coriander bunch",
-             "garlic pod",
-             "ginger long 2 inch",
-             "then add water i and cook on flame till meat is tender",
-             "add meat and fry",
-             "oil",
-             "onion nos",
-             "serve",
-             "delicious palak gosht is ready",
-             "spices: salt",
-             "tomatoes nos",
-             "boil palak in water",
-             "mutton",
-             "cooked green fresh now add palak and cook",
-             "cooked palak"
-        ]
+        "ingredients":"fry onion till golden brown,green chillies nos,fresh coriander bunch,garlic pod,ginger long 2 inch,then add water i and cook on flame till meat is tender,add meat and fry,oil,onion nos,serve,delicious palak gosht is ready,spices: salt,tomatoes nos,boil palak in water,mutton,cooked green fresh now add palak and cook,cooked palak"
     },
     {
         "id": 652814,
         "title": "Mutton Curry",
         "image": "https://spoonacular.com/recipeImages/652814-312x231.jpg",
         "imageType": "jpg",
-        "ingredients": [
-             "butter",
-             "curry",
-             "parsley",
-             "peppercorns",
-             "rice",
-             "salt",
-             "thyme",
-             "water",
-             "mutton"
-        ]
+        "ingredients":"butter,curry,parsley,peppercorns,rice,salt,thyme,water,mutton"
     },
     {
         "id": 660185,
         "title": "Singapore Curry",
         "image": "https://spoonacular.com/recipeImages/660185-312x231.jpg",
         "imageType": "jpg",
-        "ingredients": [
-             "butter",
-             "coconut",
-             "curry powder",
-             "flour",
-             "liquid",
-             "chutney",
-             "peanuts",
-             "pineapple chunks",
-             "rice",
-             "salt",
-             "tomato",
-             "cooked diced turkey"
-        ]
+        "ingredients":"butter,coconut,curry powder,flour,liquid,chutney,peanuts,pineapple chunks,rice,salt,tomato,cooked diced turkey"
     },
     {
         "id": 632983,
         "title": "Assam Fish Curry",
         "image": "https://spoonacular.com/recipeImages/632983-312x231.jpg",
         "imageType": "jpg",
-        "ingredients": [
-             "white fish steaks/fillets",
-             "red capsicum",
-             "red curry paste",
-             "ginger",
-             "garlic",
-             "tamarind paste",
-             "sugar",
-             "oyster sauce",
-             "long stalks lemon grass",
-             "fresh lime leaves",
-             "curry leaves",
-             "shaoxing huatiao wine",
-             "coconut cream",
-             "coriander to garnish"
-        ]
+        "ingredients":"white fish steaks/fillets,red capsicum,red curry paste,ginger,garlic,tamarind paste,sugar,oyster sauce,long stalks lemon grass,fresh lime leaves,curry leaves,shaoxing huatiao wine,coconut cream,coriander to garnish"
     },
     {
         "id": 650606,
         "title": "Madras Beef Curry",
         "image": "https://spoonacular.com/recipeImages/650606-312x231.jpg",
         "imageType": "jpg",
-        "ingredients": [
-             "garam masala",
-             "ground cinnamon",
-             "curry powder",
-             "black pepper",
-             "salt",
-             "cayenne pepper",
-             "light brown sugar",
-             "garlic cloves",
-             "ginger",
-             "lemon juice",
-             "vegetable oil",
-             "beef",
-             "diced canned tomatoes",
-             "green onions",
-             "cooked basmati rice"
-        ]
+        "ingredients":"garam masala,ground cinnamon,curry powder,black pepper,salt,cayenne pepper,light brown sugar,garlic cloves,ginger,lemon juice,vegetable oil,beef,diced canned tomatoes,green onions,cooked basmati rice"
     }
-],
-"sushi":[
+,
+"sushi":
     {
     "id": 540672,
     "title": "Chirashi Sushi Cake and Temari Sushi",
     "imageType": "jpg",
     "image": "https://spoonacular.com/recipeImages/650606-312x231.jpg",
-    "ingredients": [
-        
-        "blanched snow pea",
-        
-        "cucumber",
-        
-        "shredded egg crepe & egg crepe garnish",
-        
-        "salmon sashimi",
-        
-        "cooked japanese premium short grain rice",
-        
-        "cooked shrimp",
-        
-        "chirashi sushi mix",
-        
-        "shredded sakura denbu"
-    ]
+    "ingredients":"blanched snow pea,cucumber,shredded egg crepe & egg crepe garnish,salmon sashimi,cooked japanese premium short grain rice,cooked shrimp,chirashi sushi mix,shredded sakura denbu"
 },
 {
     "id": 87885,
     "imageType": "jpg",
     "title": "Sushi Poppers",
     "image": "https://spoonacular.com/recipeImages/650606-312x231.jpg",
-    "ingredients": [
-        
-        "canned solid albacore tuna in water",
-        
-        "avocado",
-        
-        "cream cheese",
-        
-        "fresh cucumber",
-        
-        "mango",
-        
-        "seasoned rice vinegar",
-        
-        "sesame seeds",
-        
-        "cooked freshly short-grain rice",
-        
-        "fresh shrimp",
-        
-        "smoked salmon",
-        
-        "wasabi paste"
-    ]
+    "ingredients":"canned solid albacore tuna in water,avocado,cream cheese,fresh cucumber,mango,seasoned rice vinegar,sesame seeds,cooked freshly short-grain rice,fresh shrimp,smoked salmon,wasabi paste"
 },
 {
     "id": 87760,
     "imageType": "jpg",
     "title": "Sushi Pizza",
     "image": "https://spoonacular.com/recipeImages/650606-312x231.jpg",
-    "ingredients": [
-        
-        "avocado",
-        
-        "smoked flakedimitation crabmeat",
-        
-        "english cucumber",
-        
-        "light mayonnaise",
-        
-        "milk",
-        
-        "roasted nori",
-        
-        "pickled ginger",
-        
-        "seasoned rice vinegar",
-        
-        "sesame seeds",
-        
-        "sushi rice",
-        
-        "wasabi powder"
-    ]
+    "ingredients":"avocado,smoked flakedimitation crabmeat,english cucumber,light mayonnaise,milk,roasted nori,pickled ginger,seasoned rice vinegar,sesame seeds,sushi rice,wasabi powder"
 },
 {
     "id": 1087262,
     "imageType": "jpg",
     "title": "Sushi burrito",
     "image": "https://spoonacular.com/recipeImages/650606-312x231.jpg",
-    "ingredients": [
-        
-        "sushi rice",
-        
-        "rice wine vinegar",
-        
-        "cucumber",
-        
-        "carrot",
-        
-        "soy sauce",
-        
-        "nori",
-        
-        "wasabi paste",
-        
-        "pickled ginger",
-        
-        "lime (juice)",
-        
-        "avocados",
-        
-        "sushi grade tuna steak",
-        
-        "pack coriander"
-    ]
+    "ingredients":"sushi rice,rice wine vinegar,cucumber,carrot,soy sauce,nori,wasabi paste,pickled ginger,lime (juice),avocados,sushi grade tuna steak,pack coriander"
 },
 {
     "id": 86968,
     "imageType": "jpg",
     "title": "Salmon Sushi",
     "image": "https://spoonacular.com/recipeImages/650606-312x231.jpg",
-    "ingredients": [
-        
-        "carrot",
-        
-        "cooked rice",
-        
-        "cucumber",
-        
-        "nori",
-        
-        "smoked salmon"
-    ]
+    "ingredients":"carrot,cooked rice,cucumber,nori,smoked salmon"
 },
 {
     "id": 86905,
     "imageType": "jpg",
     "title": "Sushi Layers",
     "image": "https://spoonacular.com/recipeImages/650606-312x231.jpg",
-    "ingredients": [
-        
-        "caper",
-        
-        "carrot",
-        
-        "cucumbers",
-        
-        "green onion",
-        
-        "lemons",
-        
-        "nori",
-        
-        "red diced bell pepper",
-        
-        "rice vinegar",
-        
-        "dry rice wine",
-        
-        "salt",
-        
-        "short-grain rice",
-        
-        "cooked shrimp",
-        
-        "smoked salmon",
-        
-        "sugar",
-        
-        "water"
-    ]
+    "ingredients":"caper,carrot,cucumbers,green onion,lemons,nori,red diced bell pepper,rice vinegar,dry rice wine,salt,short-grain rice,cooked shrimp,smoked salmon,sugar,water"
 },
 {
     "id": 319398,
     "imageType": "jpeg",
     "title": "Vegetable Sushi",
     "image": "https://spoonacular.com/recipeImages/650606-312x231.jpg",
-    "ingredients": [
-        
-        "trimmed asparagus spears",
-        
-        "avocado",
-        
-        "cucumber",
-        
-        "dried nori",
-        
-        "pickled ginger",
-        
-        "plum tomato",
-        
-        "red onion",
-        
-        "rice vinegar",
-        
-        "romaine lettuce heart",
-        
-        "salt",
-        
-        "sesame seeds",
-        
-        "short-grain japanese rice",
-        
-        "sugar",
-        
-        "wasabi paste"
-    ]
+    "ingredients":"trimmed asparagus spears,vocado,cucumber,dried nori,pickled ginger,plum tomato,red onion,rice vinegar,romaine lettuce heart,salt,sesame seeds,short-grain japanese rice,sugar,wasabi paste"
 },
 {
     "id": 89400,
     "imageType": "jpg",
     "title": "Sushi Salad",
     "image": "https://spoonacular.com/recipeImages/650606-312x231.jpg",
-    "ingredients": [
-        
-        "cayenne pepper",
-        
-        "english cucumber",
-        
-        "fresh tuna",
-        
-        "green onion",
-        
-        "old bay seasoning",
-        
-        "red pepper flakes",
-        
-        "sesame seed",
-        
-        "sesame seed oil",
-        
-        "soy sauce",
-        
-        "sugar",
-        
-        "unseasoned rice vinegar"
-    ]
+    "ingredients":"cayenne pepper,english cucumber,fresh tuna,green onion,old bay seasoning,red pepper flakes,sesame seed,sesame seed oil,soy sauce,sugar,unseasoned rice vinegar"
 }
-],
-"kebab":[
+,
+"kebab":
     {
         "id": 652433,
         "title": "Moroccan Lemon Shish Kebabs",
         "image": "https://spoonacular.com/recipeImages/652433-312x231.jpg",
         "imageType": "jpg",
-        "ingredients": [
-            
-            "lean chicken breast fillets",
-            
-            "moroccan lemon marinade",
-            
-            "parsley",
-            
-            "fresh rosemary leaves",
-            
-            "fresh thyme leaves",
-            
-            "garlic",
-            
-            "black peppercorns",
-            
-            "lemon (juice)",
-            
-            "olive oil"
-        ]
+        "ingredients":"lean chicken breast fillets,moroccan lemon marinade,parsley,fresh rosemary leaves,fresh thyme leaves,garlic,black peppercorns,lemon (juice),olive oil"
     },
     {
         "id": 659742,
         "title": "Serbian Raznjici - Kebabs With Pork, Bacon, Onion and Sweet Pepper",
         "image": "https://spoonacular.com/recipeImages/659742-312x231.jpg",
         "imageType": "jpg",
-        "ingredients": [
-            
-            "pork meat",
-            
-            "red bell pepper",
-            
-            "green bell pepper",
-            
-            "onion",
-            
-            "cured bacon",
-            
-            "black ground pepper",
-            
-            "salt",
-            
-            "plain salad oil"
-        ]
+        "ingredients":"pork meat,red bell pepper,green bell pepper,onion,cured bacon,black ground pepper,salt,plain salad oil"
     },
     {
         "id": 645742,
         "title": "Grilled Kabobs",
         "image": "https://spoonacular.com/recipeImages/645742-312x231.jpg",
         "imageType": "jpg",
-        "ingredients": [
-            
-            "apple cider vinegar",
-            
-            "cherry tomatoes",
-            
-            "fresh ginger",
-            
-            "green pepper",
-            
-            "lemon juice",
-            
-            "lower-sodium soy sauce",
-            
-            "mushrooms",
-            
-            "onion",
-            
-            "orange juice concentrate",
-            
-            "frozen tofu",
-            
-            "excess water squeezed out",
-            
-            "zucchini",
-            
-            "cooked ounce"
-        ]
+        "ingredients":"apple cider vinegar,cherry tomatoes,fresh ginger,green pepper,lemon juice,lower-sodium soy sauce,mushrooms,onion,orange juice concentrate,frozen tofu,excess water squeezed out,zucchini,cooked ounce"
     },
     {
         "id": 662375,
         "title": "Surf and Turf Kababs",
         "image": "https://spoonacular.com/recipeImages/662375-312x231.jpg",
         "imageType": "jpg",
-        "ingredients": [
-            
-            "balsamic vinegar",
-            
-            "yellow red & bell pepper",
-            
-            "brown sugar",
-            
-            "whole button mushrooms",
-            
-            "fresh ginger",
-            
-            "fresh thyme",
-            
-            "garlic",
-            
-            "green onions",
-            
-            "green onions",
-            
-            "pepper",
-            
-            "canned fresh pineapple",
-            
-            "pineapple juice",
-            
-            "lean ribeye steaks",
-            
-            "shrimp",
-            
-            "soy sauce"
-        ]
+        "ingredients":"balsamic vinegar,yellow red & bell pepper,brown sugar,whole button mushrooms,fresh ginger,fresh thyme,garlic,green onions,green onions,pepper,canned fresh pineapple,pineapple juice,lean ribeye steaks,shrimp,oy sauce"
     },
     {
         "id": 630484,
         "title": "Chicken shish kabobs",
         "image": "https://spoonacular.com/recipeImages/630484-312x231.jpg",
         "imageType": "jpg",
-        "ingredients": [
-            
-            "chicken breast fillets",
-            
-            "garlic",
-            
-            "green bell pepper",
-            
-            "honey",
-            
-            "ketchup",
-            
-            "fresh champignon mushrooms",
-            
-            "mustard",
-            
-            "paprika",
-            
-            "bell pepper",
-            
-            "red onion",
-            
-            "salt",
-            
-            "soya sauce",
-            
-            "tomato",
-            
-            "zucchini",
-            
-            "wooden kabob skewers"
-        ]
+        "ingredients":"chicken breast fillets, garlic, green bell pepper, honey, ketchup, fresh champignon mushrooms, mustard, paprika, bell pepper, red onion, salt, soya sauce, tomato, zucchini, wooden kabob skewers"
+        
     },
     {
         "id": 638218,
         "title": "Chicken Orange Skewers",
         "image": "https://spoonacular.com/recipeImages/638218-312x231.jpg",
         "imageType": "jpg",
-        "ingredients": [
+        "ingredients": 
             
-            "skinless boneless chicken breasts",
-            
-            "red onion",
-            
-            "navel orange",
-            
-            "zucchini",
-            
-            "olive oil",
-            
-            "tsp garlic powder",
-            
-            "tsp onion powder",
-            
-            "tsp pepper",
-            
-            "tsp salt",
-            
-            "tsp chili powder",
-            
-            "tsp paprika",
-            
-            "orange (juice)",
-            
-            "orange zest"
-        ]
+            "skinless boneless chicken breasts, red onion, navel orange, zucchini, olive oil, tsp garlic powder, tsp onion powder, tsp pepper, tsp salt, tsp chili powder, tsp paprika, orange (juice), orange zest"
+        
     },
     {
         "id": 716330,
         "title": "Chicken and Mango Skewer",
         "image": "https://spoonacular.com/recipeImages/716330-312x231.jpg",
         "imageType": "jpg",
-        "ingredients": [
+        "ingredients": 
             
-            "skinless chicken breast",
-            
-            "chicken stock cube",
-            
-            "canned mangos",
-            
-            "dry pepper",
-            
-            "suya seasoning mix",
-            
-            "cooking spoon of vegetable oil"
-        ]
+            "skinless chicken breast, chicken stock cube, canned mangos, dry pepper, suya seasoning mix, cooking spoon of vegetable oil"
+        
     },
     {
         "id": 665550,
         "title": "Yogurt Marinated Lamb Skewers",
         "image": "https://spoonacular.com/recipeImages/665550-312x231.jpg",
         "imageType": "jpg",
-        "ingredients": [
+        "ingredients": 
             
-            "veg oil",
-            
-            "cumin",
-            
-            "leg of lamb",
-            
-            "nutmeg",
-            
-            "paprika",
-            
-            "plain yogurt",
-            
-            "salt",
-            
-            "tumeric"
-        ]
+            "veg oil, cumin, leg of lamb, nutmeg, paprika, plain yogurt, salt, tumeric"
+        
     },
     {
         "id": 663157,
         "title": "Thai Street Vendor Salmon Skewers",
         "image": "https://spoonacular.com/recipeImages/663157-312x231.jpg",
         "imageType": "jpg",
-        "ingredients": [
+        "ingredients": 
             
-            "yu choy",
-            
-            "brown sugar",
-            
-            "chili sauce",
-            
-            "fish sauce",
-            
-            "fresh ginger",
-            
-            "dried ground turmeric",
-            
-            "lime",
-            
-            "salmon fillet"
-        ]
+            "yu choy, brown sugar, chili sauce, fish sauce, fresh ginger, dried ground turmeric, lime, salmon fillet"
+        
     },
     {
         "id": 664575,
         "title": "Vegetable Paneer Skewers Or Paneer Tikka",
         "image": "https://spoonacular.com/recipeImages/664575-312x231.jpg",
         "imageType": "jpg",
-        "ingredients": [
+        "ingredients": 
             
-            "green bell pepper",
-            
-            "red onion",
-            
-            "tomato",
-            
-            "paneer 1\" x 1\"",
-            
-            "olive oil",
-            
-            "yogurt",
-            
-            "olive oil",
-            
-            "ginger garlic paste",
-            
-            "red salt& chilli powder",
-            
-            "chaat masala",
-            
-            "jeera powder",
-            
-            "green chilli and 3 cilantro"
-        ]
+            "green bell pepper, red onion, tomato, paneer , olive oil, yogurt, olive oil, ginger garlic paste, red salt& chilli powder, chaat masala, jeera powder, green chilli and 3 cilantro"
+        
     }
-]
