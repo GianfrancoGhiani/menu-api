@@ -2,61 +2,72 @@
     "id": 659015,
     "title": "Salad With Apples, Gorgonzola and Walnuts",
     "image": "https://spoonacular.com/recipeImages/659015-312x231.jpg",
-    "imageType": "jpg"
+    "imageType": "jpg",
+    "ingredients": "baguette, extra virgin olive oil, creamy gorgonzola, green apple, lemon juice, bell pepper, green mixed salad, salt, walnuts"
 },
+
 {
     "id": 1096010,
     "title": "Egg Salad Wrap",
     "image": "https://spoonacular.com/recipeImages/1096010-312x231.jpg",
-    "imageType": "jpg"
+    "imageType": "jpg",
+    "ingredients": "hardboiled eggs, red onion, italian fresh parsley, fresh dill, capers - plus tsp. of caper juice, mustard, vinegar, drizzle of olive oil, honey, salt, black pepper, chili powder, fresh lettuce, bread and butter pickles, tortilla wraps"
 },
 {
     "id": 642240,
     "title": "Egg Salad Sandwiches With Tarragon",
     "image": "https://spoonacular.com/recipeImages/642240-312x231.jpg",
-    "imageType": "jpg"
+    "imageType": "jpg",
+    "ingredients": "arugula, hardboiled eggs, mayonnaise, bell pepper, salt, shallot, sourdough, tarragon, white wine vinegar"
 },
 {
     "id": 649264,
     "title": "Larb Salad",
     "image": "https://spoonacular.com/recipeImages/649264-312x231.jpg",
-    "imageType": "jpg"
+    "imageType": "jpg",
+    "ingredients": "basil leaves, butter lettuce leaves, fresh thai chilies, cup chicken stock, fish sauce, fresh cilantro leaves, garlic, ginger, thinly- green onions, ground pork, fresh lime juice, fresh mint leaves, thinly- shallots, sugar"
 },
 {
     "id": 640311,
     "title": "Crab Salad in Avocado Boats",
     "image": "https://spoonacular.com/recipeImages/640311-312x231.jpg",
-    "imageType": "jpg"
+    "imageType": "jpg",
+    "ingredients": "red onion, mayonnaise, hot sauce such as sriracha, fresh cilantro, fresh lime juice, ground cumin, lime zest, lump crab meat, avocado"
 },
 {
     "id": 640318,
     "title": "Crab Salad Stuffed Pita Pockets",
     "image": "https://spoonacular.com/recipeImages/640318-312x231.jpg",
-    "imageType": "jpg"
+    "imageType": "jpg",
+    "ingredients": "apple, canned white crabmeat, coriander leaves, light mayonnaise, wholewheat pita breads, salt & pepper, watercress, yellow bell pepper"
 },
 {
     "id": 634792,
     "title": "Beet Salad With Peppers and Lettuce",
     "image": "https://spoonacular.com/recipeImages/634792-312x231.jpg",
-    "imageType": "jpg"
+    "imageType": "jpg",
+    "ingredients": "beet, fresh basil, red leave lettuce, maple syrup, olive oil, orange pepper, red bell pepper, sunflower seeds"
 },
 {
     "id": 654119,
     "title": "Orzo Salad With Vegetables and Herbs",
     "image": "https://spoonacular.com/recipeImages/654119-312x231.jpg",
-    "imageType": "jpg"
+    "imageType": "jpg",
+    "ingredients": "black pepper, boston lettuce--optional, diced cucumber, fresh flat-leaf parsley, fresh mint, garlic, green onions including 2 inches of green stem, fresh lemon juice, lemon zest, olive oil, orzo, salt, trimmed to 8 sugar snap peas, diced tomatoes"
 },
 {
     "id": 655438,
     "title": "Pear Salad With Walnuts and Blue Cheese",
     "image": "https://spoonacular.com/recipeImages/655438-312x231.jpg",
-    "imageType": "jpg"
+    "imageType": "jpg",
+    "ingredients": "blue cheese, chives, mixed salad leaves curly endive, lemon juice, pears, safflower oil, walnut oil, walnuts"
 },
 {
     "id": 157106,
     "title": "Wedge Salad",
     "image": "https://spoonacular.com/recipeImages/157106-312x231.jpg",
-    "imageType": "jpg"
+    "imageType": "jpg",
+    "ingredients": "cherry tomatoes, dijon mustard, egg yolk, eggs, gorgonzola cheese, grainy mustard, iceberg lettuce, lemon zest, light olive oil, yellow blanched beans, salt and pepper"
 },
 
 
@@ -65,188 +76,69 @@
     "id": 640085,
     "title": "Corn Flan Side Dish",
     "image": "https://spoonacular.com/recipeImages/640085-312x231.jpg",
-    "imageType": "jpg"
+    "imageType": "jpg",
+    "ingredients": "black pepper, corn kernels, eggs, fresh ricotta, kosher salt, pecorino romano cheese, whole milk"
 },
 {
     "id": 652717,
     "title": "Mushroom-Barley Side Dish",
     "image": "https://spoonacular.com/recipeImages/652717-312x231.jpg",
-    "imageType": "jpg"
+    "imageType": "jpg",
+    "ingredients": "leek, olive oil, fresh mushrooms, garlic, ¾ pearl barley, beef broth, dry white wine, parmesan"
 },
 {
     "id": 1095855,
     "title": "Tennessee Onions Side Dish",
     "image": "https://spoonacular.com/recipeImages/1095855-312x231.jpg",
-    "imageType": "jpg"
+    "imageType": "jpg",
+    "ingredients": "vidalia onions, unsalted butter, garlic salt, black bell pepper, shredded sharp cheddar cheese, shredded mozzarella cheese, parmesan cheese, fresh oregano"
 },
 {
     "id": 1095967,
     "title": "Easy 7 Layer Salad Side Dish",
     "image": "https://spoonacular.com/recipeImages/1095967-312x231.jpg",
-    "imageType": "jpg"
+    "imageType": "jpg",
+    "ingredients": "mayonnaise, white sugar, iceberg lettuce, red diced vidalia, frozen peas, hardboiled eggs, shredded sharp cheddar cheese, cooked bacon"
 },
 {
     "id": 643422,
     "title": "Fresh Quick \"Pickle\" Side Dish",
     "image": "https://spoonacular.com/recipeImages/643422-312x231.jpg",
-    "imageType": "jpg"
+    "imageType": "jpg",
+    "ingredients": "cucumbers, dill, ice cubes, white wine vinegar"
 },
 {
     "id": 643775,
     "title": "Indian-Style Pumpkin Side Dish",
     "image": "https://spoonacular.com/recipeImages/643775-312x231.jpg",
-    "imageType": "jpg"
+    "imageType": "jpg",
+    "ingredients": "coriander powder, curry leaves, dried chili peppers, ginger, mustard seeds, onions, pumpkin, turmeric powder"
 },
 {
     "id": 640607,
     "title": "Creamy Cannellini Bean Side Dish",
     "image": "https://spoonacular.com/recipeImages/640607-312x231.jpg",
-    "imageType": "jpg"
+    "imageType": "jpg",
+    "ingredients": "bay leaf, canned cannellini beans, dried thyme, fresh basil, salt & pepper, turkey bacon, vegetable broth"
 },
 {
     "id": 643096,
     "title": "Flemish Style Asparagus Side Dish",
     "image": "https://spoonacular.com/recipeImages/643096-312x231.jpg",
-    "imageType": "jpg"
+    "imageType": "jpg",
+    "ingredients": "green white fresh asparagus, butter, hardboiled eggs, italian flat parsley, lemon (juice)"
 },
 {
     "id": 640590,
     "title": "Creamy Asparagus Risotto Side Dish",
     "image": "https://spoonacular.com/recipeImages/640590-312x231.jpg",
-    "imageType": "jpg"
+    "imageType": "jpg",
+    "ingredients": "aged balsamic vinegar, arborio rice, fresh asparagus, canned fresh chicken broth, parmesan cheese, shallots, sweet onion, unsalted butter, virgin olive oil, sweet light white wine"
 },
 {
     "id": 645474,
     "title": "Green Mango Salad - Thai Side Dish",
     "image": "https://spoonacular.com/recipeImages/645474-312x231.jpg",
-    "imageType": "jpg"
+    "imageType": "jpg",
+    "ingredients": "chilies, fish sauce, whole lime (juice), lettuce, green whole mango., sugar, diced wholes tomatoes"
 },
-
-
-
-
-
-{
-    "id": 634476,
-    "title": "Bbq Chicken",
-    "image": "https://spoonacular.com/recipeImages/634476-312x231.jpg",
-    "imageType": "jpg"
-},
-{
-    "id": 634486,
-    "title": "BBQ Beef Brisket",
-    "image": "https://spoonacular.com/recipeImages/634486-312x231.jpg",
-    "imageType": "jpg"
-},
-{
-    "id": 634496,
-    "title": "BBQ Mac and Cheese",
-    "image": "https://spoonacular.com/recipeImages/634496-312x231.jpg",
-    "imageType": "jpg"
-},
-{
-    "id": 634481,
-    "title": "Bbq Chicken and Goat Cheese Ravioli",
-    "image": "https://spoonacular.com/recipeImages/634481-312x231.jpg",
-    "imageType": "jpg"
-},
-{
-    "id": 654181,
-    "title": "Oven Bbq Ribs",
-    "image": "https://spoonacular.com/recipeImages/654181-312x231.jpg",
-    "imageType": "jpg"
-},
-{
-    "id": 1095685,
-    "title": "Easy BBQ Jackfruit Saute",
-    "image": "https://spoonacular.com/recipeImages/1095685-312x231.jpg",
-    "imageType": "jpg"
-},
-{
-    "id": 632796,
-    "title": "Asian Bbq Sauce",
-    "image": "https://spoonacular.com/recipeImages/632796-312x231.jpg",
-    "imageType": "jpg"
-},
-{
-    "id": 635675,
-    "title": "Boozy Bbq Chicken",
-    "image": "https://spoonacular.com/recipeImages/635675-312x231.jpg",
-    "imageType": "jpg"
-},
-{
-    "id": 633448,
-    "title": "Baked Bbq Chicken Legs",
-    "image": "https://spoonacular.com/recipeImages/633448-312x231.jpg",
-    "imageType": "jpg"
-},
-{
-    "id": 665125,
-    "title": "Whiskey Bbq Ribs",
-    "image": "https://spoonacular.com/recipeImages/665125-312x231.jpg",
-    "imageType": "jpg"
-},
-
-
-
-
-{
-    "id": 661531,
-    "title": "Steak with lemon and capers",
-    "image": "https://spoonacular.com/recipeImages/661531-312x231.jpg",
-    "imageType": "jpg"
-},
-{
-    "id": 1096025,
-    "title": "Steak Salad with Chimichurri Sauce",
-    "image": "https://spoonacular.com/recipeImages/1096025-312x231.jpg",
-    "imageType": "jpg"
-},
-{
-    "id": 661522,
-    "title": "Steak With Blue Cheese Sherry Sauce",
-    "image": "https://spoonacular.com/recipeImages/661522-312x231.jpg",
-    "imageType": "jpg"
-},
-{
-    "id": 661510,
-    "title": "Steak Salad With Roasted Potatoes and Fennel",
-    "image": "https://spoonacular.com/recipeImages/661510-312x231.jpg",
-    "imageType": "jpg"
-},
-{
-    "id": 661500,
-    "title": "Steak And Pepper Rounds With Rose Horseradish Garlic Creme Sauce",
-    "image": "https://spoonacular.com/recipeImages/661500-312x231.jpg",
-    "imageType": "jpg"
-},
-{
-    "id": 660234,
-    "title": "Skirt Steak Fajitas",
-    "image": "https://spoonacular.com/recipeImages/660234-312x231.jpg",
-    "imageType": "jpg"
-},
-{
-    "id": 643061,
-    "title": "Flank Steak with Herbed Salsa",
-    "image": "https://spoonacular.com/recipeImages/643061-312x231.jpg",
-    "imageType": "jpg"
-},
-{
-    "id": 631750,
-    "title": "Flank Steak with Mushroom Sauce",
-    "image": "https://spoonacular.com/recipeImages/631750-312x231.jpg",
-    "imageType": "jpg"
-},
-{
-    "id": 643055,
-    "title": "Flank Steak With Chimichurri Sauce",
-    "image": "https://spoonacular.com/recipeImages/643055-312x231.jpg",
-    "imageType": "jpg"
-},
-{
-    "id": 643059,
-    "title": "Flank Steak With Garlicky Mediterranean Salad",
-    "image": "https://spoonacular.com/recipeImages/643059-312x231.jpg",
-    "imageType": "jpg"
-}
