@@ -1,0 +1,81 @@
+1 //pizzeria
+pizza
+drink 
+bbq
+steak
+dolci
+
+2   //pasta
+pasta
+drink 
+bbq
+steak
+salad 
+sidedish
+dolci
+
+3   //hamburger
+burger
+drink 
+bbq
+steak
+salad 
+sidedish
+dolci
+
+4   //chinese
+chinese
+drink 
+bbq
+steak
+salad 
+sidedish
+dolci
+
+6 //indiano
+indian
+pizza
+drink 
+bbq
+steak
+salad 
+sidedish
+dolci
+
+7   //sushi
+sushi
+drink
+dolci
+sidedish
+
+8   //kebabbaro
+kebab
+pizza
+burger
+indian
+dolci
+drink 
+bbq
+steak
+salad 
+sidedish
+
+9 //veg
+salad
+drink
+
+nome piatto           ristorante
+kebab               restaurant_id: 8
+indian              restaurant_id: 6,8
+burger              restaurant_id: 3,8
+pizza               restaurant_id: 1,6,8
+sushi               restaurant_id: 4,7
+drink               restaurant_id: 9
+salad               restauran_id : 9
+
+
+dolci x8
+
+
+restaurant id 5,7 delete all
+
